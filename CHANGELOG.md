@@ -5,6 +5,23 @@ Todos los cambios notables de Mystical Realms Translation & Fixes se documentan 
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.0-beta.47] - 2026-09-14
+
+### Añadido
+
+- **Diálogo de aldeanos de Better Villager Animations (708 frases)**: ese mod muestra texto de
+  bocadillo sobre los aldeanos (saludos, comentarios ambientales, banter de comercio) que estaba
+  completamente en inglés — no son claves de traducción de Minecraft, sino texto embebido en el
+  bytecode Java del mod, así que ningún `lang/es_es.json` podía traducirlas. Se añade
+  `assets/bettervillageranimations/dialogue/es_es.json`, una tabla de correspondencia inglés→español
+  (no un `lang.json` estándar) que consume en tiempo de ejecución un mixin nuevo del mod
+  `utility_nexus_fixes` (v1.1.0). Los marcadores de posición del propio mod (`{player}`,
+  `{speaker_goods}`, `{speaker_station}`, `{speaker_task}`, `{listener_goods}`,
+  `{listener_station}`, `{listener_task}`, `{time}`, `{weather}`) se conservan literalmente en la
+  traducción para que el mod los sustituya con normalidad. Solo tiene efecto si
+  `utility_nexus_fixes` 1.1.0+ y `Better Villager Animations` están ambos instalados y el idioma del
+  cliente es `es_es`; en cualquier otro caso el texto original en inglés se muestra sin cambios.
+
 ## [0.1.0-beta.46] - 2026-09-08
 
 ### Corregido
