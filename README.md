@@ -19,7 +19,7 @@ It is meant to be:
 
 ### Spanish translations (`assets/<mod>/lang/es_es.json`)
 
-107 mod namespaces, ~15k keys. For mods that already ship a partial `es_es`, only the missing keys
+89 mod namespaces, ~15.3k keys. For mods that already ship a partial `es_es`, only the missing keys
 are added (Minecraft merges lang files across packs). Source text is each mod's own `en_us.json`.
 See `CHANGELOG.md` for the full mod list.
 

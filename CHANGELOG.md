@@ -5,6 +5,19 @@ Todos los cambios notables de Mystical Realms Translation & Fixes se documentan 
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.0] - 2026-09-15
+
+### Primera versión estable
+
+Tras 48 betas (2026-09-02 → 2026-09-15) validadas en la instancia de traducción y funcionando
+correctamente en el pack, esta versión gradúa el proyecto a **release** estable. Sin cambios de
+contenido respecto a beta.48 — mismo `es_es` y mismos fixes de assets, solo cambia el número de
+versión y el `releaseType` en CurseForge (`beta` → `release`).
+
+**Alcance actual**: **89 namespaces de mods** con traducción `es_es` (~15.300 claves), más el diálogo
+embebido de Better Villager Animations (708 frases) y el fix de modelo de Butchery
+(`ravager_carcass`). Historial completo de cada lote en las entradas `0.1.0-beta.*` de más abajo.
+
 ## [0.1.0-beta.48] - 2026-09-15
 
 ### Añadido
