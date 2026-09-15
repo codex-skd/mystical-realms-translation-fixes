@@ -5,6 +5,20 @@ Todos los cambios notables de Mystical Realms Translation & Fixes se documentan 
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.0-beta.48] - 2026-09-15
+
+### Añadido
+
+- **3 namespaces nuevos (mods añadidos al modpack desde la 5.134.4)**: el modpack subió de versión
+  (5.134.4 → 5.144.21, 164 jars frente a los 158 auditados hasta beta.47) y trajo mods sin traducción
+  al español. Se añade `es_es` completo para:
+  - **`hexerei`** (mod Hexerei, brujería/folclore: calderos, escobas, familiares, hexes) — 1070 claves.
+  - **`apothic_ascension`** (addon de progresión/ascensión para Apotheosis) — 627 claves, terminología
+    alineada con `apotheosis`/`apothic_attributes`/`apothic_enchanting` ya traducidos en el pack.
+  - **`kaelos_gems`** (gemas nuevas para el sistema de gemas de Apotheosis) — 241 claves.
+  - Los otros 4 namespaces nuevos del barrido (`better_connections`, `integrated_cataclysm`,
+    `waystone_towers`, `wover-preset`) no aportan texto (`en_us.json` vacío), no necesitan traducción.
+
 ## [0.1.0-beta.47] - 2026-09-14
 
 ### Añadido
