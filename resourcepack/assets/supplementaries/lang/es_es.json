@@ -1053,5 +1053,7 @@
   "supplementaries.configuration.flute.note_particles": "Partículas de nota",
   "supplementaries.configuration.flute.note_particles.description": "Muestra partículas visuales al tocar una flauta",
   "item.supplementaries.pancake_disc": "Tortita",
-  "supplementaries.configuration.map_tweaks.death_marker.description": "Muestra un marcador de muerte en tu mapa cuando mueres. Requiere una brújula de recuperación en el inventario del jugador o similar"
+  "supplementaries.configuration.map_tweaks.death_marker.description": "Muestra un marcador de muerte en tu mapa cuando mueres. Requiere una brújula de recuperación en el inventario del jugador o similar",
+  "supplementaries.configuration.globe.sepia_globe.description": "Los globos sepia se desactivan automáticamente si la función 'tinta antigua' está desactivada",
+  "supplementaries.configuration.plunderer.galleon.description": "Los galeones se desactivan automáticamente si la función 'cuerda' está desactivada"
 }

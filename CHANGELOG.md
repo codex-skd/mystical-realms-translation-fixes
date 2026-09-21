@@ -5,6 +5,21 @@ Todos los cambios notables de Mystical Realms Translation & Fixes se documentan 
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] - 2026-09-21
+
+### Añadido
+
+- **Cierre de huecos de traducción tras actualización del modpack**: una auditoría completa
+  (comparando el `en_us.json` de cada jar de mod instalado contra el `es_es` propio del mod +
+  el de este resourcepack) detectó 155 claves nuevas sin traducir en 13 namespaces, aparecidas
+  porque varios mods subieron de versión desde el release 1.0.0 (`bountiful`, `moonlight`,
+  `fragmentum`, `sophisticatedcore`, `patchouli`, `xaeroworldmap`, `everycomp`, `yungsapi`,
+  `apotheosis`, `aquamirae`, `kaelos_gems`, `supplementaries`, `just_in_nether`). Se añaden 5
+  namespaces nuevos al pack (`bountiful`, `fragmentum`, `patchouli`, `yungsapi`, `apotheosis` no
+  tenían `es_es.json` propio en este resourcepack todavía) y se completan los 8 restantes.
+  Auditoría re-verificada tras el fix: **131/131 namespaces del modpack sin ninguna clave
+  pendiente**.
+
 ## [1.0.0] - 2026-09-15
 
 ### Primera versión estable

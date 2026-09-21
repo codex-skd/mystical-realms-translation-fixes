@@ -315,5 +315,10 @@
   "gui.xaero_box_map_distances": "Mostrar distancias a las posiciones o elementos del mapa en los que haces clic derecho. Para posiciones, la distancia mostrada es 2-dimensional. Para elementos, como puntos de referencia y jugadores rastreados, es 3-dimensional cuando corresponde.",
   "gui.xaero_auto_convert_wm_distances_km": "Convertir distancia del mapa a KM a",
   "gui.xaero_auto_convert_wm_distances_km_never": "Nunca",
-  "gui.xaero_wm_distance_precision": "Precisión de distancia del mapa"
+  "gui.xaero_wm_distance_precision": "Precisión de distancia del mapa",
+  "gui.xaero_pac_interrupt_claiming": "Interrumpir acciones de reclamación",
+  "gui.xaero_pac_requested_large_claim": "Comenzaste a reclamar un área grande... Usa la opción de clic derecho %1$s para cancelar.",
+  "gui.xaero_pac_requested_large_forceload": "Comenzaste a marcar un área grande para forzar su carga... Usa la opción de clic derecho %1$s para cancelar.",
+  "gui.xaero_pac_requested_large_unclaim": "Comenzaste a desreclamar un área grande... Usa la opción de clic derecho %1$s para cancelar.",
+  "gui.xaero_pac_requested_large_unforceload": "Comenzaste a desmarcar un área grande de forzar su carga... Usa la opción de clic derecho %1$s para cancelar."
 }

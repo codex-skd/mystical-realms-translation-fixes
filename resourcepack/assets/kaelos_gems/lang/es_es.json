@@ -239,5 +239,7 @@
   "loot_category.kaelos_gems.spellbook": "Libro de hechizos",
   "loot_category.kaelos_gems.spellbook.plural": "Libros de hechizos",
   "gem_class.spellbook": "Libros de hechizos",
-  "gem_class.weapon": "Armas"
+  "gem_class.weapon": "Armas",
+  "tooltip.kaelos_gems.resonance": "Resonancia: %s con tres, %s con cinco",
+  "tooltip.kaelos_gems.resonance.active": "Resonancia: %s equipados (%s)"
 }

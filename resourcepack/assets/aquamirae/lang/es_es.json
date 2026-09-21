@@ -29,5 +29,7 @@
   "config.aquamirae.option.placement_separation.desc": "Reduce el rango de posibles posiciones dentro de cada región de espaciado por esta cantidad de chunks en cada eje. Valores más altos mueven las estructuras hacia el inicio de cada región.",
   "config.aquamirae.descWithAnyReload": "%s\n\n§6⚠ ¡Esta opción requiere una recarga del mundo o el comando /reload para aplicarse!",
   "config.aquamirae.descWithWorldReload": "%s\n\n§6⚠ ¡Esta opción requiere una recarga del mundo para aplicarse!",
-  "config.aquamirae.format.chunks": "%s Chunk(s)"
+  "config.aquamirae.format.chunks": "%s Chunk(s)",
+  "config.aquamirae.option.difficulty": "Dificultad",
+  "config.aquamirae.option.difficulty.desc": "Controla la eficacia de Furia de las profundidades y Resiliencia de las profundidades.\n\n§fVANILLA§7 – Estos atributos están desactivados. Todo el equipamiento vanilla y de mods funciona con normalidad en el Laberinto de Hielo.\n\n§fAQUAMIRAE§7 – Usa la progresión original de Aquamirae. El Laberinto de Hielo es muy difícil sin Furia de las profundidades y Resiliencia de las profundidades, mientras que el equipamiento de Aquamirae se vuelve cada vez más eficaz a medida que progresas.\n\n§fBALANCED§7 – Estos atributos tienen un efecto reducido. La mayoría del equipamiento sigue siendo eficaz, mientras que el equipamiento de Aquamirae sigue siendo más eficaz contra las criaturas de Aquamirae."
 }

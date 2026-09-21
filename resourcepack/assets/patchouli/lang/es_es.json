@@ -1,0 +1,7 @@
+{
+  "item.patchouli:pamphlet.landing": "Un panfleto de prueba, que es un libro con una sola categoría.",
+  "item.patchouli:pamphlet.name": "Panfleto de prueba",
+  "patchouli.gui.lexicon.button.toggle_mock_header": "Alternar cabecera simulada",
+  "patchouli.networking.open_book.failed": "Error al abrir el libro %s",
+  "patchouli.networking.reload_contents.failed": "Error al recargar el contenido %S"
+}
