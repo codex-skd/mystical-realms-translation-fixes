@@ -75,4 +75,18 @@ minecraft/1.21.1/resourcepack/main         # public mirror, synced by CI
 
 ## License
 
-All Rights Reserved.
+**This pack is a composite work.** It is not entirely original, and it does not claim to be.
+
+- **Original contributions** — the Spanish translations authored for this pack, the
+  corrections listed in [`NOTICE.md`](NOTICE.md), and the build scripts and docs — are
+  **All Rights Reserved**, © 2026 Stalking Dragons. See [`LICENSE`](LICENSE).
+- **Derived content** — the translations of other mods' strings, and the four files that are
+  edited copies of upstream files, remain under **their own authors' licences**. Translating a
+  string does not transfer rights in it.
+
+[`NOTICE.md`](NOTICE.md) is the authoritative breakdown: which namespaces are derived from
+which mods, and exactly what was changed in each of the four copied files.
+
+Every mod whose content this pack touches keeps full credit for its own work. Nothing here
+overrides a mod's licence. If you are an upstream author and want something changed or
+removed, open an issue and it will be actioned.

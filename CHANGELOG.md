@@ -7,6 +7,15 @@ y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ## [Unreleased]
 
+### Added
+
+- **`LICENSE`**: el pack lacked a licence file; the README's blanket "All Rights Reserved" was
+  in any case wrong, since the pack redistributes content derived from 93 other mods. The new
+  licence asserts All Rights Reserved **only** over the pack's own original contributions.
+- **`NOTICE`**: desglose exacto de qué es obra propia y qué es derivado. Los 93 namespaces de
+  traducción se atribuyen a sus mods, y los cuatro ficheros que son copias editadas de ficheros
+  upstream se documentan uno a uno con el cambio exacto realizado.
+
 ### Fixed
 
 - **CI**: `PUBLIC_OPTIONAL` vuelve a `"LICENSE NOTICE libs/"` en `.gitlab-ci.yml`, deshaciendo el
