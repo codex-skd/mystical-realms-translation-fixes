@@ -5,6 +5,16 @@ Todos los cambios notables de Mystical Realms Translation & Fixes se documentan 
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Fixed
+
+- **CI**: `PUBLIC_OPTIONAL` vuelve a `"LICENSE NOTICE libs/"` en `.gitlab-ci.yml`, deshaciendo el
+  commit `ci: publish optional public wiki paths`. La allowlist anterior añadía
+  `wiki/ mkdocs.yml .github/`, que podía publicar la wiki privada y los workflows del
+  repositorio en el snapshot público. La wiki no la construye la CI: vive en los repos
+  `.wiki.git` de GitLab y GitHub.
+
 ## [1.0.1] - 2026-09-21
 
 ### Añadido

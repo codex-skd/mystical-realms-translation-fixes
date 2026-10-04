@@ -7,9 +7,7 @@ variables:
   # Mods: keep as is. Datapacks/resourcepacks: override PUBLIC_REQUIRED in the repo's copy, e.g.
   #   "datapack/ build_fix_pack.py version.txt .gitignore README.md CHANGELOG.md"
   PUBLIC_REQUIRED: "resourcepack/ build_pack.py version.txt .gitignore README.md CHANGELOG.md"
-  # Public wiki (optional): wiki/ + mkdocs.yml + .github/workflows/wiki.yml → GitHub Pages
-  # (codex-docs/templates/wiki/, setup in codex-docs/reference/REPO_SETUP.md).
-  PUBLIC_OPTIONAL: "LICENSE NOTICE libs/ wiki/ mkdocs.yml .github/"
+  PUBLIC_OPTIONAL: "LICENSE NOTICE libs/"
 
 stages:
   - validate
