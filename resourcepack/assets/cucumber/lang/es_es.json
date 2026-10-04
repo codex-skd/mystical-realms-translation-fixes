@@ -1,0 +1,18 @@
+{
+  "subtitle.cucumber.watering_can": "Regadera",
+  "tooltip.cucumber.hold_shift_for_info": "Mantén §e§oMAYÚS §r§7para más info",
+  "tooltip.cucumber.uses_left": "%s usos restantes",
+  "tooltip.cucumber.one_use_left": "1 uso restante",
+  "tooltip.cucumber.unlimited_uses": "Usos ilimitados",
+  "tooltip.cucumber.empty": "Vacío",
+  "tooltip.cucumber.filled": "Lleno",
+  "tooltip.cucumber.hold_ctrl_for_tags": "Mantén CTRL para ver etiquetas",
+  "tooltip.cucumber.data_components": "Componentes de datos:",
+  "tooltip.cucumber.hold_alt_for_data_components": "Mantén ALT para ver componentes de datos",
+  "tooltip.cucumber.block_tags": "Etiquetas de bloques:",
+  "tooltip.cucumber.item_tags": "Etiquetas de objetos:",
+  "tooltip.cucumber.fluid_tags": "Etiquetas de fluidos:",
+  "tooltip.cucumber.not_yet_implemented": "Aún no implementado",
+  "message.cucumber.filled_energy": "¡Este %s ha absorbido tu energía!",
+  "message.cucumber.filled_energy_error": "Este %s no puede absorber tu energía."
+}

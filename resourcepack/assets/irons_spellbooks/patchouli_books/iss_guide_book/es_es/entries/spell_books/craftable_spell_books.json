@@ -1,0 +1,54 @@
+{
+  "name": "Libros de Hechizos Básicos",
+  "icon": "irons_spellbooks:iron_spell_book",
+  "category": "irons_spellbooks:root",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Libros de Hechizos Fabricables",
+      "text": "Muchos libros de hechizos se pueden fabricar a partir de una combinación de materiales vanilla y arcanos. Cada nivel superior fabricado aumenta la cantidad de ranuras del libro de hechizos y a menudo viene con bonificaciones extra, aumentando el poder y la cantidad de hechizos que puede contener."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:copper_spell_book",
+      "recipe2": "irons_spellbooks:iron_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:gold_spell_book",
+      "recipe2": "irons_spellbooks:diamond_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:netherite_spell_book",
+      "recipe2": "irons_spellbooks:dragonskin_spell_book"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Libros de Hechizos con Nombre",
+      "text": "Los libros de hechizos con nombre se pueden encontrar en muchos rincones del mundo, a menudo ofreciendo bonificaciones a los aventureros afortunados que buscan en los lugares correctos."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:rotten_spell_book",
+      "text": "Lo que pudo haber sido un libro más poderoso se ha pudrido desde entonces, dejando solo tres páginas. Sin embargo, sigue siendo más poderoso que la mayoría de los libros de hechizos del mundo superior. Se pueden obtener como botín de lugares igualmente podridos por todo el mundo superior."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:villager_spell_book",
+      "text": "Un libro normal con una pequeña bendición hace un canal adecuado para la magia divina. Construir una reputación con los aldeanos, especialmente liberando cautivos del Archevoker, asegurará que eventualmente uno caiga en tus manos."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blaze_spell_book",
+      "text": "Cada Blaze, sin saberlo, viene con uno de estos escondido. El truco es matarlos y esperar que no se convierta en cenizas."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:druidic_spell_book",
+      "text": "Una fuerte energía mágica aún persiste dentro del Libro de Hechizos Podrido. El libro podría ser bendecido de nuevo si se aplicara el remedio adecuado."
+    }
+  ]
+}

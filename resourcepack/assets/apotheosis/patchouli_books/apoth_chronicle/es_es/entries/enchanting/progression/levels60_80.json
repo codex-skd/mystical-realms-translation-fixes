@@ -1,0 +1,43 @@
+{
+    "name": "Niveles 60 - 80",
+    "icon": "apothic_enchanting:dormant_deepshelf",
+    "category": "apotheosis:enchanting/progression",
+	"flag": "apotheosis:enchanting",
+    "pages": [
+		{
+            "type": "patchouli:crafting",
+			"title": "Alcanzar el Nivel 70",
+			"recipe": "apothic_enchanting:dormant_deepshelf",
+			"text": "Alcanzar el nivel 70 requiere una Mesa de Encantamiento de nivel 60 y acceso a la Pizarra Abisal."
+		},
+		{
+            "type": "patchouli:text",
+			"title": "Alcanzar el Nivel 70",
+			"text": "Una vez que hayas fabricado una $(9)Estantería Abisal Dormida$(), necesitas infundirla.$(p)Esta receta de infusión requerirá algunos bloques extra para alcanzar el umbral de estadística.$(p)Completar la infusión producirá una $(9)Estantería Abisal$(), que te puede llevar al nivel 70."
+		},
+		{
+            "type": "patchouli:text",
+			"title": "Alcanzar el Nivel 75",
+			"text": "Para alcanzar el nivel 75, necesitarás mejorar tus Estanterías Abisales.$(p)Esto requiere materiales que solo se encuentran en la $(9)Oscuridad Profunda$().$(p)Los $(9)Fragmentos de Eco$() pueden obtenerse del Ciudad Antigua, y el $(9)Eco$() puede recogerse con Toque de Seda."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Alcanzar el Nivel 75",
+			"recipe": "apothic_enchanting:echoing_deepshelf",
+			"recipe2": "apothic_enchanting:soul_touched_deepshelf"
+		},
+		{
+            "type": "patchouli:entity",
+			"entity": "minecraft:warden",
+			"title": "Alcanzar el Nivel 80",
+			"scale": 0.95,
+			"text": "El último paso para el nivel 80 requiere derrotar al $(9)Guardián$(), lo que permite fabricar $(9)Estanterías de Eco$()."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Alcanzar el Nivel 80",
+			"recipe": "apothic_enchanting:echoing_sculkshelf",
+			"recipe2": "apothic_enchanting:soul_touched_sculkshelf"
+		}
+	]
+}

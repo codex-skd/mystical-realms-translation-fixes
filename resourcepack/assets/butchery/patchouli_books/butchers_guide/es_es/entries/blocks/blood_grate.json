@@ -1,0 +1,21 @@
+{
+      "name": "Rejilla de Sangre",
+    "icon": "butchery:blood_grate",
+    "category": "butchery:blocks",
+    "read_by_default": true,
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:blood_grate",
+            "link_recipe": true,
+            "title" : "Rejilla de Sangre",
+            "text": "La rejilla de sangre es un bloque que puede recoger sangre de cadáveres que están sangrando. Este bloque debe colocarse directamente debajo del cadáver colgado."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:bloodgraterecipe",
+            "text": "La rejilla de sangre puede modificarse para soportar sangre de otros mods. Para ello necesitarás fabricar los $(l:butchery:items/butchers_papers)Papeles de Carnicero$(), una vez fabricados simplemente haz clic derecho sobre la rejilla de sangre y cambiará entre la sangre de los mods soportados."
+        }
+    ]
+}

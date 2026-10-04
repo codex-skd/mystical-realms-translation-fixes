@@ -1,0 +1,13 @@
+{
+    "name": "Motosierra",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Motosierra$() es un encantamiento de Obra Maestra que se puede aplicar a hachas.$(p)Al talar un árbol, se recolectará el árbol entero.$(p)Esto consume durabilidad del hacha."
+        }
+	]
+}

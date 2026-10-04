@@ -1,0 +1,8 @@
+{
+  "key.categories.placebo": "Placebo",
+  "placebo.toggleTrails": "Activar/Desactivar Estelas de Patrocinadores",
+  "placebo.toggleWings": "Activar/Desactivar Alas de Patrocinadores",
+  "placebo.cmd.serialize_success": "%s guardado en %s.",
+  "placebo.cmd.serialize_failure": "Ocurrió un error durante el proceso de serialización.",
+  "placebo.cmd.not_found": "%s no fue encontrado."
+}

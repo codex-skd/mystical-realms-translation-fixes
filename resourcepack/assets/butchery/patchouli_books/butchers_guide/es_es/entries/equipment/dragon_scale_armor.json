@@ -1,0 +1,26 @@
+{
+      "name": "Armadura de Escamas de Dragón",
+    "icon": "butchery:dragon_scale_armor_chestplate",
+    "category": "butchery:equipment",
+    "read_by_default": true,
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:dragon_scale_armor_chestplate",
+            "link_recipe": true,
+            "title" : "Armadura de Escamas de Dragón",
+            "text": "La armadura de escamas de dragón es un nuevo conjunto de armadura que se obtiene despedazando al Dragón del End. Este conjunto no es fácil de conseguir y puede requerir varios dragones para completar un conjunto completo. Para fabricar este conjunto debes mejorar la armadura de netherita con $(l:butchery:items/dragon_smithing_template)Plantillas de Herrería de Dragón$() y $(l:butchery:resources/dragon_scale)Lingotes de Escamas de Dragón$() en una mesa de herrería. "
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "butchery:dragonhelmetrecipe",
+            "recipe2": "butchery:dragonchestplaterecipe"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "butchery:dragonleggingsrecipe",
+            "recipe2": "butchery:dragon_boots_recipe"
+        }
+    ]
+}

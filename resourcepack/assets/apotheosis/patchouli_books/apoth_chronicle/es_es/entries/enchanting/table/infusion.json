@@ -1,0 +1,20 @@
+{
+    "name": "Infusión de Encantamiento",
+    "icon": "apothic_enchanting:infused_hellshelf",
+    "category": "apotheosis:enchanting/table",
+	"flag": "apotheosis:enchanting",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La $(9)Infusión de Encantamiento$() es un nuevo método de fabricación a través de la Mesa de Encantamiento.$(p)Cada receta de infusión tiene una entrada de un solo artículo y tres requisitos de estadísticas."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Cada requisito de estadística normalmente requerirá al menos algún valor, y opcionalmente tendrá un valor máximo.$(p)Las infusiones de encantamiento solo usan la tercera ranura y te permitirán gastar experiencia de más."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Para realizar una infusión de encantamiento, simplemente coloca el objeto en la ranura.$(p)Si tienes las estadísticas correctas, la tercera ranura se iluminará, y haciendo clic en ella se realizará la infusión."
+		}
+	]
+}

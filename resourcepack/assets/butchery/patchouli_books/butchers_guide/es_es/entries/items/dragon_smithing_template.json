@@ -1,0 +1,20 @@
+{
+      "name": "Plantilla de Herrería de Dragón",
+    "icon": "butchery:dragon_smithing_template",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:dragon_smithing_template",
+            "link_recipe": true,
+            "title" : "Plantilla de Herrería de Dragón",
+            "text": "La plantilla de herrería de dragón es necesaria para mejorar la armadura de netherita a $(l:butchery:equipment/dragon_scale_armor)Armadura de Escamas de Dragón$()."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:dragonsmithingtemplaterecipe"
+        }
+    ]
+}

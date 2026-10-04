@@ -1,0 +1,21 @@
+{
+    "name": "Trapo",
+    "icon": "butchery:rag",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:rag",
+            "link_recipe": true,
+            "title" : "Trapo",
+            "text": "Como las esponjas pueden ser difíciles de obtener, hay una opción más barata. Se trata del trapo, este objeto se puede usar para los mismos fines que la esponja, pero tiene una durabilidad mucho menor."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:ragrecipe",
+            "text": "Para mojar un trapo, necesitas hacer clic derecho sobre un bloque de agua o un caldero lleno de agua."
+        }
+    ]
+}

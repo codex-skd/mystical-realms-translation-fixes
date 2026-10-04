@@ -1,0 +1,7 @@
+{
+    "name": "Cambios Vanilla",
+    "description": "Esta sección cubre nuevos objetos encantables y cambios mecánicos.$(p)Si hay cambios menores en el contenido, se anotarán aquí.",
+    "icon": "minecraft:trident",
+	"flag": "apotheosis:enchanting",
+	"parent": "apotheosis:enchanting/enchanting"
+}

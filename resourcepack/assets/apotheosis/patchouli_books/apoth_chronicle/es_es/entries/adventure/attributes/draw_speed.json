@@ -1,0 +1,13 @@
+{
+  "name": "Velocidad de Dibujo",
+  "icon": "minecraft:bow",
+  "category": "apotheosis:adventure/attributes",
+  "flag": "apotheosis:adventure",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La $(9)Velocidad de Tensado$() es la rapidez con la que puedes tensar un arma a distancia, relativa a la velocidad original. 1 = 100%, 2 = 200%, etc.$(p)Se encuentra en armas a distancia."
+    }
+  ]
+}

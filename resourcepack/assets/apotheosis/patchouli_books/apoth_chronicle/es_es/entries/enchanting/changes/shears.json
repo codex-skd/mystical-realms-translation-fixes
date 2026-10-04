@@ -1,0 +1,13 @@
+{
+    "name": "Tijeras",
+    "icon": "minecraft:shears",
+    "category": "apotheosis:enchanting/changes",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Junto con los nuevos encantamientos, las tijeras ahora también pueden recibir $(9)Irrompibilidad$(), $(9)Eficiencia$() y $(9)Fortuna$()."
+        }
+	]
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Estadísticas de Encantamiento",
+    "icon": "minecraft:bookshelf",
+    "category": "apotheosis:enchanting/table",
+	"flag": "apotheosis:enchanting",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Con Apotheosis, el encantamiento depende de más que solo niveles.$(p)Actualmente hay cinco nuevas estadísticas de encantamiento.$(p)Los bloques que proporcionan estadísticas de encantamiento las tendrán en su información emergente."
+        },
+		{
+			"type": "patchouli:text",
+			"title": "Eterna",
+			"text": "$(eterna) es la estadística principal del encantamiento.$(p)Cada punto de $(eterna) aumenta el nivel máximo de encantamiento en dos.$(p)Algunos bloques solo pueden proporcionar $(eterna) hasta cierto valor máximo."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Cuánta",
+			"anchor": "quanta",
+			"text": "$(quanta) es una estadística secundaria. Controla la varianza del encantamiento.$(p)Durante el encantamiento, tienes un $(bpower), que es el nivel que gastaste para encantar, y luego un $(fpower), después de todas las modificaciones.$(p)$(quanta) es uno de los factores en el proceso de modificación."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Se selecciona un valor entre $(4)1 - Cuánta$() y $(9)1 + Cuánta$().$(p)Tu $(fpower) es igual a ese valor multiplicado por tu $(bpower).$(p)Valores más altos de $(quanta) aumentan el rango de potencia, lo que significa que tus encantamientos son menos consistentes en su $(fpower)."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Arcana",
+			"text": "$(arcana) es una estadística secundaria. Controla los pesos de rareza y, en ciertos umbrales, te garantiza encantamientos adicionales.$(p)Al 25% de $(arcana), siempre recibirás al menos dos encantamientos. Al 75%, siempre recibirás tres."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Por defecto, las rarezas tienen los siguientes pesos:$(p)Común: 10$(br)Poco Común: 5$(br)Raro: 3$(br)Muy Raro: 1$(p)Cada 10% de $(arcana) cambia los pesos, eventualmente invirtiéndolos por completo.$(p)Al pasar el cursor sobre la Barra de $(arcana), se mostrarán los pesos actuales."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Estabilidad Cuántica",
+			"anchor": "rectification",
+			"text": "La Estabilidad Cuántica es una estadística terciaria. Impacta directamente el límite inferior de las modificaciones de $(quanta).$(p)Cuando está presente, ya no puedes obtener modificadores de $(quanta) negativos."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Matemáticas Cuánticas",
+			"text": "Si no te gusta las matemáticas, puedes saltar a la siguiente página.$(p)Normalmente, las tiradas de $(quanta) usan una distribución normal en todo el rango, pero una vez estabilizado, esto cambia a una distribución uniforme en el lado positivo."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Pistas",
+			"text": "Las Pistas son otra estadística terciaria.$(p)Cada pista te permite ver un artículo adicional en la ventana de vista previa.$(p)Cuando puedes ver todos los encantamientos disponibles, el texto cambiará ligeramente."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "También puedes reducir a cero las pistas y no poder ver nada."
+		}
+	]
+}

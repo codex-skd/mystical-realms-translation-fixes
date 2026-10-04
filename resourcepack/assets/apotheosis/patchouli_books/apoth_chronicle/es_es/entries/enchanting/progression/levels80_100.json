@@ -1,0 +1,32 @@
+{
+    "name": "Niveles 80 - 100",
+    "icon": "apothic_enchanting:endshelf",
+    "category": "apotheosis:enchanting/progression",
+	"flag": "apotheosis:enchanting",
+    "pages": [
+		{
+            "type": "patchouli:spotlight",
+			"title": "Alcanzar el Nivel 90",
+			"item": "apothic_enchanting:infused_breath",
+			"text": "Acceder al penúltimo nivel requiere una mesa de nivel 80 y acceso al $(9)Aliento de Dragón$().$(p)Con estos, puedes crear $(9)Aliento de Dragón Infundido$(), un componente clave de las $(9)Estanterías del Fin$()."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Alcanzar el Nivel 90",
+			"recipe": "apothic_enchanting:endshelf",
+			"recipe2": "apothic_enchanting:pearl_endshelf"
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Alcanzar el Nivel 100",
+			"item": "minecraft:dragon_head",
+			"text": "El nivel más alto que puede alcanzar una Mesa de Encantamiento es el nivel 100, pero solo una estantería puede proporcionar tanta potencia.$(p)Crear dicha estantería requiere aventurarse al Fin exterior para recuperar una $(9)Cabeza de Dragón$()."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Alcanzar el Nivel 100",
+			"recipe": "apothic_enchanting:draconic_endshelf",
+			"text": "Una sola $(9)Estantería Draconiana del Fin$() proporciona suficiente fuerza bruta para elevar una mesa del nivel 90 al nivel 100.$(p)Sin embargo, no proporciona otras bonificaciones de estadísticas."
+		}
+	]
+}

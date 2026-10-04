@@ -1,0 +1,16 @@
+{
+      "name": "Púa de Pez Globo",
+    "icon": "butchery:pufferfish_spike",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:pufferfish_spike",
+            "link_recipe": true,
+            "title" : "Púa de Pez Globo",
+            "text": "Púas de pez globo obtenidas al despedazar un pez globo. Estas púas se pueden usar en un soporte para pociones junto con pociones imprecisas para crear pociones de veneno."
+        }
+    ]
+}

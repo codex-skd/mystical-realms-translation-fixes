@@ -1,0 +1,19 @@
+{
+    "name": "Encantamientos de Tesoro",
+    "icon": "apothic_enchanting:treasure_shelf",
+    "category": "apotheosis:enchanting/utility",
+    "flag": "apotheosis:enchanting",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Los encantamientos de tesoro son encantamientos especiales que normalmente no están disponibles en la Mesa de Encantamiento.$(p)Sin embargo, esto se puede solucionar con una $(9)Estantería de Tesaros Arcanos$()."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "apothic_enchanting:treasure_shelf",
+            "title": "Tesoros Arcanos",
+            "text": "Colocar esta estantería en una ranura válida hará que los encantamientos de tesoro aparezcan al encantar.$(p)Ten en cuenta que la mayoría de los $(4)Maldiciones$() son encantamientos de tesoro."
+        }
+    ]
+}

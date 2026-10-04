@@ -1,0 +1,17 @@
+{
+    "name": "Conocimiento de los Siglos",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Conocimiento de los Siglos$() es un encantamiento de$(br)Obra Maestra que se puede aplicar a espadas.$(p)Al matar un mob, todas las caídas se convertirán en experiencia.$(p)Cada objeto individual vale la misma cantidad de experiencia."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Esto hace que sea más eficiente matar mobs que sueltan una gran cantidad de objetos.$(p)La experiencia por objeto aumenta con el nivel del encantamiento.$(p)Como precaución, matar a un jugador no convertirá sus objetos."
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+      "name": "Atuendo de Evocador",
+    "icon": "butchery:evoker_robes_chestplate",
+    "category": "butchery:equipment",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:evoker_robes_chestplate",
+            "link_recipe": true,
+            "title" : "Atuendo de Evocador",
+            "text": "Los atuendos de evocador se pueden obtener despedazando Evocadores; son puramente cosméticos. Se pueden reciclar combinándolos con un cuchillo de forjar o un cuchillo de despiece en una mesa de trabajo."
+        }
+    ]
+}

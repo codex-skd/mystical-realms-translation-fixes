@@ -1,0 +1,27 @@
+{
+    "name": "Filtrado de Encantamientos",
+    "icon": "apothic_enchanting:filtering_shelf",
+    "category": "apotheosis:enchanting/utility",
+    "flag": "apotheosis:enchanting",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A veces, es deseable evitar ciertos encantamientos por completo durante el proceso de encantamiento.$(p)La $(9)Estantería Marina de Filtrado Acuático$() te permite hacer exactamente eso."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "apothic_enchanting:filtering_shelf",
+            "title": "Filtrado Acuático",
+            "text": "La estantería te permite insertar hasta seis libros de un solo encantamiento en ella, evitando que esos encantamientos aparezcan."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Para usarla, simplemente inserta un libro de un solo encantamiento del encantamiento que desees bloquear.$(p)El encantamiento ya no estará disponible en la Mesa de Encantamiento.$(p)La estantería también ganará $(eterna) y $(arcana) según el número de libros insertados."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Nota: los libros se pueden insertar de la misma manera que usas una estantería labrada, y la estantería debe estar en una ranura de estantería válida para funcionar.$(p)Los encantamientos bloqueados se reflejarán en la $(l:apotheosis:enchanting/table/info)Pantalla de Información de Encantamiento$()."
+        }
+    ]
+}

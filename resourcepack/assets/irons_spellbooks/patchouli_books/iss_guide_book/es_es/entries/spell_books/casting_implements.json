@@ -1,0 +1,34 @@
+{
+  "name": "Implementos de Lanzamiento",
+  "icon": "irons_spellbooks:graybeard_staff",
+  "category": "irons_spellbooks:root",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Implementos de Lanzamiento",
+      "text": "Los implementos de lanzamiento son objetos que se pueden usar con clic derecho para lanzar tu hechizo activo. La mayoría de las veces, también proporcionan beneficios pasivos, permitiendo un estilo de juego de mago dedicado."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:graybeard_staff",
+      "text": "Un simple palo es todo lo que se necesita para empezar."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:artificer_cane",
+      "text": "A veces, un poco de estilo extra es todo lo que se necesita para llevar tu lanzamiento al siguiente nivel."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:ice_staff",
+      "text": "Se rumorea que piezas de un báculo helado místico se encuentran repartidas por el mundo superior. El Criomante puede tener investigaciones guardadas en su torre que revelen más."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blood_staff",
+      "text": "Un antiguo cetro con habilidades de invocación incomparables, solo se puede obtener arrebatándoselo a su dueño no muerto."
+    }
+  ]
+}

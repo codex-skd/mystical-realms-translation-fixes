@@ -1,0 +1,17 @@
+{
+    "name": "Furia del Berserker",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(4)Furia del Berserker$() es un encantamiento Corrupto que se puede aplicar a petos.$(p)Mientras usas este encantamiento, si recibes daño, recibirás daño adicional y obtendrás Resistencia, Velocidad y Fuerza."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "El daño recibido y la fuerza de las pociones se basan en el nivel del encantamiento."
+		}
+	]
+}

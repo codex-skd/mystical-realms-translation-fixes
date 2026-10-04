@@ -1,0 +1,74 @@
+{
+  "name": "Escuelas de Magia",
+  "icon": "irons_spellbooks:lightning_bottle",
+  "category": "irons_spellbooks:root",
+  "sortnum": 20,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Resumen",
+      "text": "Cada hechizo mágico pertenece a una escuela de magia. Cada escuela encapsula un tema, tanto visual como funcionalmente, y cada una tiene un Foco: un objeto representativo que se usa como ingrediente de fabricación. Además, cada escuela se puede potenciar con equipamiento específico de la escuela, permitiéndote convertirte en un poderoso maestro de una sola escuela, o mezclar y combinar para ser un experto en todo."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:blaze_rod",
+      "title": "Fuego",
+      "text": "La escuela de Fuego, con una Varilla de Blaze como su Foco, se centra en el daño y el daño con el tiempo."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:frozen_bone",
+      "title": "Hielo",
+      "text": "La escuela de Hielo, con Huesos Congelados como su Foco, se centra en el daño y el control de masas."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:lightning_bottle",
+      "title": "Rayos",
+      "text": "La escuela de Rayos, con una Botella de Rayos como su Foco, se centra en el daño concentrado."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:divine_pearl",
+      "title": "Sagrado",
+      "text": "La escuela Sagrada, con la Perla Divina como su Foco, se centra en el soporte, la curación y el potenciado de aliados."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:ender_pearl",
+      "title": "End",
+      "text": "La escuela del End, con una Perla del End como su Foco, está tematizada en todo lo arcano y místico, con hechizos que van desde daño hasta utilidad y movilidad."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blood_vial",
+      "title": "Sangre",
+      "text": "La escuela de Sangre, con un Vial de Sangre como su Foco, está tematizada en el mal; encontrarás elementos de nigromancia, wither y magia de sangre aquí, con hechizos centrados en el daño que potencian al lanzador."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:emerald",
+      "title": "Evocación",
+      "text": "La escuela de Evocación, con una Esmeralda como su Foco, está tematizada en trucos mágicos e invocación, cubriendo la gama más amplia de hechizos ofensivos, defensivos y de utilidad."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:poisonous_potato",
+      "title": "Naturaleza",
+      "text": "La escuela de Naturaleza, con una Patata Venenosa como su Foco, se centra en aplicar debuffs a los enemigos, con elementos de daño para acabar con ellos."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:eldritch_manuscript",
+      "title": "Arcano",
+      "text": "La escuela Arcana no es como las demás. Es una forma antigua y poderosa de magia, una que ha sido casi olvidada; no podrás fabricar o lanzar hechizos Arcanos inmediatamente. Sin embargo, fragmentos de antiguos manuscritos Arcanos todavía se pueden encontrar repartidos por el mundo, e incluso se pueden reconstruir con la ayuda de un fragmento de eco."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:echo_shard",
+      "title": "Arcano, continuación",
+      "text": "Una vez que un manuscrito ha sido restaurado, se puede consumir para aprender un solo hechizo Arcano, permitiendo su fabricación y lanzamiento. Después de ser aprendido, el Fragmento de Eco se usa como el foco."
+    }
+  ]
+}

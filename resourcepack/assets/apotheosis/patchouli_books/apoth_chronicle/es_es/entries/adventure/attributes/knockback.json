@@ -1,0 +1,17 @@
+{
+    "name": "Golpe de Ataque",
+    "icon": "minecraft:piston",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "El $(9)Golpe de Ataque$() es la distancia a la que empujas a los enemigos al atacarlos.$(p)Cada punto hará que los enemigos golpeados se desplacen medio bloque.$(p)Armas y escudos pueden proporcionar esta estadística."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "El encantamiento de Golpe proporciona una bonificación equivalente a esta estadística, pero no cuenta para el límite de valor máximo."
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+      "name": "Escamas de Dragón",
+    "icon": "butchery:dragon_scale",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:dragon_scale",
+            "link_recipe": true,
+            "title" : "Escamas de Dragón",
+            "text": "Escamas de dragón obtenidas al despedazar Dragones del End. Son una pieza vital para obtener $(l:butchery:equipment/dragon_scale_armor)Armadura de Escamas de Dragón$(). Se usan para crear lingotes de escamas de dragón cuando se combinan con netherita en una mesa de trabajo."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:dragonscaleingotrecipe",
+            "recipe2": "butchery:dragonscaleblockrecipe"
+        }
+    ]
+}

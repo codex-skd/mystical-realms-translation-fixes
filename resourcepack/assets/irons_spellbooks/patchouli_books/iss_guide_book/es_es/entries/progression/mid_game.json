@@ -1,0 +1,50 @@
+{
+  "name": "Juego Medio",
+  "icon": "irons_spellbooks:scroll_forge",
+  "category": "irons_spellbooks:root",
+  "sortnum": -2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Forja de Pergaminos",
+      "text": "Al alcanzar recursos de nivel nether, desbloquearás una dinámica completamente nueva para ganar poder: La Forja de Pergaminos$(br2)La Forja de Pergaminos se usa para fabricar pergaminos usando tinta, papel y un foco. La tinta determina la rareza (y por lo tanto el nivel), y el foco determina la escuela del hechizo."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:scroll_forge"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Nuevos Libros de Hechizos",
+      "text": "Además, los libros de hechizos intermedios se pueden fabricar usando recursos del nether",
+      "recipe": "irons_spellbooks:gold_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:diamond_spell_book",
+      "text": "La piel de hoglin la sueltan los Hoglins"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:magic_cloth",
+      "title": "Nuevos Materiales",
+      "text": "También deberías empezar a fabricar armadura más fuerte usando tela arcana. Para obtener grandes cantidades de esencia arcana, necesitarás centrarte en saquear estructuras mágicas."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Armadura de Espantapájaros",
+      "entity": "minecraft:armor_stand{ArmorItems:[{id:'irons_spellbooks:pumpkin_boots',Count:1b},{id:'irons_spellbooks:pumpkin_leggings',Count:1b},{id:'irons_spellbooks:pumpkin_chestplate',Count:1b},{id:'irons_spellbooks:pumpkin_helmet',Count:1b}],NoBasePlate:1b}"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blank_rune",
+      "title": "Materiales Raros",
+      "text": "Para continuar progresando, estate atento a las piedras rúnicas en estructuras mágicas. Las piedras rúnicas se usan para fabricar armadura aún más poderosa. Los magos de clase siempre sueltan una runa de su escuela."
+    },
+    {
+      "type": "patchouli:empty",
+      "draw_filler": false
+    }
+  ]
+}

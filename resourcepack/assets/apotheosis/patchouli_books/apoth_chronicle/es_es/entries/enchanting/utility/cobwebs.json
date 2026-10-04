@@ -1,0 +1,17 @@
+{
+    "name": "Telarañas",
+    "icon": "apothic_enchanting:prismatic_web",
+    "category": "apotheosis:enchanting/utility",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Las Telarañas Prismáticas se pueden combinar con un objeto en una yunque para eliminar todas las maldiciones."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "apothic_enchanting:prismatic_web"
+		}
+	]
+}

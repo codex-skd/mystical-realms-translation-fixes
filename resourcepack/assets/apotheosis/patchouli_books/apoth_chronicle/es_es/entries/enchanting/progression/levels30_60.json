@@ -1,0 +1,44 @@
+{
+    "name": "Niveles 30 - 60",
+    "icon": "apothic_enchanting:hellshelf",
+    "category": "apotheosis:enchanting/progression",
+	"flag": "apotheosis:enchanting",
+    "pages": [
+		{
+            "type": "patchouli:crafting",
+			"title": "Alcanzar el Nivel 45",
+			"recipe": "apothic_enchanting:hellshelf",
+			"text": "Para alcanzar el nivel 45, querrás crear algunas $(9)Estanterías Infernales$() y añadirlas a tus Estanterías existentes."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Alcanzar el Nivel 45",
+			"recipe": "apothic_enchanting:seashelf",
+			"text": "Si no te gusta el Nether, también puedes aventurarte al Océano y crear $(9)Estanterías Marinas$() en su lugar."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Alcanzar el Nivel 60",
+			"item": "apothic_enchanting:infused_hellshelf",
+			"text": "Una vez que alcances el nivel 45, necesitarás explorar la $(l:apotheosis:enchanting/table/infusion)Infusión de Encantamiento$() para mejorar tus estanterías."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Alcanzar el Nivel 60",
+			"item": "apothic_enchanting:infused_seashelf",
+			"text": "Crea un par más del tipo de estantería que estabas usando, infúselas y mejóralas.$(p)Estas nuevas estanterías, encima de las antiguas, te permitirán alcanzar el nivel 60."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Pistas de Encantamiento",
+			"item": "apothic_enchanting:sightshelf",
+			"text": "Ahora tienes acceso a mejores opciones para aumentar otras estadísticas.$(p)Además de las bonificaciones de las Estanterías Infernales y Marinas, ahora también puedes crear $(9)Estanterías de Visión$() para aumentar tus $(clues)."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Estabilidad Cuántica",
+			"recipe": "apothic_enchanting:geode_shelf",
+			"text": "Al realizar la infusión para crear un Amatisto Brotante, puedes fabricar una $(9)Estantería de Estabilidad$().$(p)Esto evitará que recibas tiradas de Cuánta negativas."
+		}
+	]
+}

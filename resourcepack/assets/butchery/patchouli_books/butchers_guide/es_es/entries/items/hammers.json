@@ -1,0 +1,30 @@
+{
+      "name": "Martillos",
+    "icon": "butchery:iron_hammer",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:iron_hammer",
+            "link_recipe": true,
+            "title" : "Martillos",
+            "text": "Algunos cadáveres tienen caparazones duros y exteriores similares a caparazones, que desafortunadamente los cuchillos de forjar no pueden atravesar. Aquí es donde entran los martillos, usar estas herramientas con la fuerza suficiente puede romper caparazones. Para mobs como tortugas y shulkers, los caparazones se pueden quitar haciendo clic derecho con el martillo."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:bonehammerrecipe",
+            "recipe2": "butchery:ironhammerrecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:goldhammerrecipe",
+            "recipe2": "butchery:diamondhammerrecipe"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "butchery:netheritehammerrecipe"
+        }
+    ]
+}

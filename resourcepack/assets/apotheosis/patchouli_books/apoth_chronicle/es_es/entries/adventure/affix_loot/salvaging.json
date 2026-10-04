@@ -1,0 +1,44 @@
+{
+    "name": "Salvado",
+    "icon": "apotheosis:salvaging_table",
+    "category": "apotheosis:adventure/affix_loot",
+	"flag": "apotheosis:adventure",
+	"sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+			"recipe": "apotheosis:salvaging_table",
+			"text": "La $(9)Mesa de Salvado$() se utiliza para descomponer objetos con afijos en sus correspondientes $(9)Materiales de Rareza$()."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"item": "apotheosis:mysterious_scrap_metal",
+			"link_recipe": true,
+            "text": "Un trozo de metal de forma extraña e identificable.$(p)Este material se obtiene al salvar objetos comunes."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"item": "apotheosis:timeworn_fabric",
+			"link_recipe": true,
+            "text": "Un tejido increíblemente duradero, desgastado por innumerables edades. No tiene ni un solo desgarro.$(p)Se encuentra al salvar objetos poco comunes."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"item": "apotheosis:luminous_crystal_shard",
+			"link_recipe": true,
+            "text": "Un trozo del cristal más brillante que haya existido. Aunque es solo un fragmento, contiene un fuerte poder mágico.$(p)Se obtiene al salvar objetos raros."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"item": "apotheosis:arcane_sands",
+			"link_recipe": true,
+            "text": "Granos de arena de un reino mágico, donde la magia arcano distorsiona toda vida.$(p)Salvar un objeto épico los reduce a esta forma."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"item": "apotheosis:godforged_pearl",
+			"link_recipe": true,
+            "text": "Una perla de energía divina purificada. El inmenso poder sellado dentro la hace bastante volátil.$(p)Estas creaciones extraordinarias solo se pueden obtener mediante el salvado de objetos míticos."
+        }
+	]
+}

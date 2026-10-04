@@ -1,0 +1,17 @@
+{
+    "name": "Sangrado",
+    "icon": "apothic_attributes:textures/mob_effect/bleeding.png",
+    "category": "apotheosis:potion/effects",
+	"flag": "apotheosis:potion",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(c)Sangrado$() es un efecto negativo aplicado por las $(l:apotheosis:village/fletching#broadhead)Flechas de Punta Ancha$().$(p)Te causa daño cada dos segundos."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "El daño aumenta con el nivel de $(c)Sangrado$().$(p)El daño de $(c)Sangrado$() ignora la armadura."
+        }
+	]
+}

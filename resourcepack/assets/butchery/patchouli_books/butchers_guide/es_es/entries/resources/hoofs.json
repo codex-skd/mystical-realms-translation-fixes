@@ -1,0 +1,16 @@
+{
+      "name": "Pezuñas",
+    "icon": "butchery:hoof",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:hoof",
+            "link_recipe": true,
+            "title" : "Pezuñas",
+            "text": "Las pezuñas se pueden usar en el $(l:butchery:blocks/pestle_and_mortar)mortero y mano$() para obtener bolas de slime."
+        }
+    ]
+}

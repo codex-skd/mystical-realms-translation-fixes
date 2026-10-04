@@ -1,0 +1,13 @@
+{
+    "name": "Escarcha Espinosa",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Escarcha Espinosa$() es un encantamiento para petos.$(p)Aplica lentitud a los atacantes. La duración y fuerza escalan con el nivel del encantamiento.$(p)Es excluyente con $(9)Espinas$()."
+        }
+	]
+}

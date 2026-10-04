@@ -1,0 +1,20 @@
+{
+      "name": "Gancho",
+    "icon": "butchery:hook",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:hook",
+            "link_recipe": true,
+            "title" : "Gancho",
+            "text": "El gancho es una herramienta esencial para poder despedazar cadáveres. Este objeto es necesario para poder colgar cadáveres y cuerpos, drenarlos y comenzar el proceso de despedazado. Los ganchos se pueden colocar en los lados o la parte inferior de los bloques, también se pueden colocar en cadenas horizontales."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:hookrecipe"
+        }
+    ]
+}

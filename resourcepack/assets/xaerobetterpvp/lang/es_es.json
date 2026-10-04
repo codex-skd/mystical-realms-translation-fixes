@@ -1,0 +1,19 @@
+{
+  "gui.xaero_armour_status": "Estado de armadura",
+  "gui.xaero_potion_status": "Estado de pociones",
+  "gui.xaero_sprint": "Mejor sprint",
+  "gui.xaero_entity_info_potion_effects": "Efectos de poción (solo SP)",
+  "gui.xaero_entity_info_potion_effects_scale": "Escala de efectos de poción",
+  "gui.xaero_item_tooltip": "Información del objeto",
+  "gui.xaero_entity_tooltip_settings": "Ajustes de información del objeto",
+  "gui.xaero_item_tooltip_min_lines": "Líneas mínimas",
+  "gui.xaero_item_tooltip_time": "Mostrar durante",
+  "gui.xaero_potion_effects_blink": "Parpadear al agotarse",
+  "gui.xaero_armour_main_hand": "Objeto de mano principal",
+  "gui.xaero_armour_off_hand": "Objeto de mano secundaria",
+  "gui.xaero_no_durability": "Ninguno",
+  "gui.xaero_held_centered_position": "Objetos sostenidos al centrar",
+  "gui.xaero_held_centered_position_screen_edges": "Bordes",
+  "gui.xaero_held_centered_position_hotbar": "Barra de herramientas",
+  "gui.xaero_better_pvp_server_profiles": "Ajustes del servidor Better PVP"
+}

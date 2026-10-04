@@ -1,0 +1,17 @@
+{
+    "name": "Costes de Experiencia",
+    "icon": "minecraft:experience_bottle",
+    "category": "apotheosis:enchanting/changes",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "En Vanilla, las cosas que cuestan niveles (mesas de encantamiento y yunque) te quitan una cantidad fija de niveles, sin importar cuántos niveles tengas.$(p)Apotheosis cambia ambas para que cuesten la cantidad \"óptima\" de experiencia."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Para las mesas de encantamiento, se te cobrará la cantidad de experiencia como si siempre hubieras tenido la cantidad exacta de niveles necesarios para realizar ese encantamiento.$(p)Similar para las yunque, excepto que el coste es desde cero (en lugar de solo los primeros N niveles)."
+        }
+	]
+}

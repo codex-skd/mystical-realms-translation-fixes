@@ -1,0 +1,6 @@
+{
+    "name": "Módulo de Pociones",
+    "description": "El Módulo de Pociones es responsable de nuevas pociones y nuevas recetas de pociones.$(p)Prácticamente todo lo relacionado con pociones.",
+    "icon": "minecraft:potion",
+	"flag": "apotheosis:potion"
+}

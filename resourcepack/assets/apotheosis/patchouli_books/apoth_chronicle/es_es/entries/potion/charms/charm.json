@@ -1,0 +1,28 @@
+{
+    "name": "Talismanes de Poción",
+    "icon": "apotheosis:potion_charm",
+    "category": "apotheosis:potion/charms",
+	"flag": "apotheosis:potion",
+	"sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Un $(9)Talismán de Poción$() es un objeto completamente nuevo que te ayuda a aprovechar al máximo tus pociones.$(p)Verás, mientras una poción normal requiere que la bebas y uses todo el efecto de una vez, el $(9)Talismán de Poción$() te permite distribuirlo."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "apotheosis:potion_charm",
+			"title": "Creación de Talismanes de Poción",
+            "text": "Un talismán se hace con tres pociones del mismo tipo y un poco de polvo de blaze.$(p)Un solo talismán dura más que las tres pociones combinadas."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Usar Talismanes de Poción",
+            "text": "Un $(9)Talismán de Poción$() solo está activo cuando está habilitado.$(p)Para habilitar un talismán, simplemente haz clic derecho con él en la mano.$(p)Un talismán habilitado comenzará a brillar."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Mientras el talismán esté activo y en tu inventario, aplicará la poción sobre ti, consumiendo durabilidad.$(p)El talismán solo aplicará unos segundos de poción a la vez.$(p)Cuando el talismán se quede sin durabilidad, se romperá."
+        }
+	]
+}

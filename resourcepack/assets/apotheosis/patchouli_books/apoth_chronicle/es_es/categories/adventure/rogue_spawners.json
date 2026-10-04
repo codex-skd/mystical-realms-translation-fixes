@@ -1,0 +1,7 @@
+{
+    "name": "Generadores Rebeldes",
+    "description": "Encontrados escasamente en cuevas, son generadores individuales, coronados por un bloque resistente y ocultando un cofre debajo.$(p)Como no tienen origen, propósito o dueño conocido, los llamamos $(9)Generadores Rebeldes$().",
+    "icon": "minecraft:spawner",
+	"flag": "apotheosis:adventure",
+	"parent": "apotheosis:adventure/adventure"
+}

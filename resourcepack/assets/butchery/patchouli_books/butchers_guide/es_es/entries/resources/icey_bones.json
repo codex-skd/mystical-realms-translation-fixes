@@ -1,0 +1,16 @@
+{
+      "name": "Huesos Helados",
+    "icon": "butchery:icey_bone",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:icey_bone",
+            "link_recipe": true,
+            "title" : "Huesos Helados",
+            "text": "Huesos helados obtenidos al despedazar cadáveres de stray. Los huesos se pueden moler en harina de hueso helado usando el $(l:butchery:blocks/pestle_and_mortar)mortero y mano$(). La harina de hueso se puede usar para convertir bloques de agua normales en bloques de hielo."
+        }
+    ]
+}

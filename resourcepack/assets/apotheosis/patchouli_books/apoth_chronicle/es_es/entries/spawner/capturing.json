@@ -1,0 +1,19 @@
+{
+    "name": "Captura",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:spawner/spawner",
+	"flag": "apotheosis:spawner",
+	"sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Los Generadores de Mobs pueden cambiar su entidad usando un $(9)Huevo de Generación$().$(p)Normalmente, estos son inobtenibles. Para solucionarlo, Apotheosis añade el encantamiento $(9)Captura$() para espadas."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"item": "minecraft:cow_spawn_egg",
+			"title": "Huevos de Generación",
+            "text": "Cada nivel del encantamiento $(9)Captura$() te da un 0.4% de posibilidades de que las entidades suelten su huevo de generación al morir.$(p)Las entidades sin ítem de huevo de generación (como se ve en JEI) no pueden soltar uno."
+        }
+	]
+}

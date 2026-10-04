@@ -1,0 +1,17 @@
+{
+  "description.config.wover.client.general.check_for_new_versions": "WorldWeaver incluye un verificador de versiones simple que puede notificarte cuando nuevas actualizaciones de nuestros mods estén disponibles. Para ello, necesitamos leer un recurso de uno de nuestros servidores web. Para procesar la solicitud, junto con tu dirección IP (necesitamos saber dónde enviar la respuesta), también enviamos tu versión de Minecraft (para poder elegir la versión correcta del mod). Los datos transmitidos nunca serán utilizados ni procesados por nosotros para otros fines, pero deben almacenarse en nuestros archivos de registro durante 4 semanas por razones legales.",
+  "description.config.wover.client.general.force_betterx_world_type": "El tipo de mundo determina cómo se genera un mundo. En la mayoría de los casos, BetterX debe mantenerse como predeterminado (puedes cambiar el tipo en cualquier momento en la pantalla de creación de mundos). Este tipo está optimizado para la máxima compatibilidad entre DataPacks, nuestro mod y otros mods de NeoForge. También proporciona algunas funciones exclusivas para BetterNether y BetterEnd. ¡Solo deberías desactivar esta opción si tienes una razón para hacerlo!",
+  "description.config.wover.client.loading.disable_experimental_warning": "La pantalla de advertencia aparece cuando tu mundo no utiliza la configuración de versión vanilla. Esto puede ocurrir al iniciar un mundo en una versión preliminar, pero también cuando usas mods para cambiar la creación del mundo. Si esta opción está habilitada, la advertencia se omitirá al cargar un mundo existente. Aún se mostrará (como recordatorio) cuando se cree un nuevo mundo.",
+  "title.config.wover.client.general.check_for_new_versions": "Buscar nuevas versiones y notificar",
+  "title.config.wover.client.general.force_betterx_world_type": "Tipo de mundo BetterX por defecto para nuevos mundos",
+  "title.config.wover.client.loading.disable_experimental_warning": "Ocultar advertencia experimental",
+  "warning.config.wover.client.general.force_betterx_world_type": "PROBABLEMENTE QUERRÁS MANTENER ESTA OPCIÓN HABILITADA.\n",
+  "wover.welcome.description": "... y un enorme y sincero **gracias** por descargar y jugar nuestros mods. Esperamos que los disfrutes tanto como nosotros.\n\nAntes de comenzar, hay algunas cosas que necesitamos configurar, así que por favor continúa leyendo esta parte aburrida.",
+  "wover.welcome.title": "Bienvenido a ",
+  "wover.updates.description": "Algunos de los mods instalados están desactualizados. Mejoramos y ampliamos continuamente nuestro contenido, así como proporcionamos correcciones de errores importantes.\nPor favor, considera actualizar tus mods utilizando los enlaces proporcionados a continuación.",
+  "wover.updates.download_link": "Descargar",
+  "wover.updates.modrinth_link": "[Modrinth]",
+  "wover.updates.curseforge_link": "[Curseforge]",
+  "wover.updates.title": "Actualizaciones de mods",
+  "wover.updates.disable_check": "Deshabilitar comprobación de actualizaciones"
+}

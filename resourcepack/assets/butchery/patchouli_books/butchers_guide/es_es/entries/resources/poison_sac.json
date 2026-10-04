@@ -1,0 +1,16 @@
+{
+      "name": "Saco de Veneno",
+    "icon": "butchery:poison_sac",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:poison_sac",
+            "link_recipe": true,
+            "title" : "Saco de Veneno",
+            "text": "El saco de veneno se obtiene al despedazar abejas. Estos sacos se pueden preparar con pociones imprecisas para obtener pociones de Veneno II."
+        }
+    ]
+}

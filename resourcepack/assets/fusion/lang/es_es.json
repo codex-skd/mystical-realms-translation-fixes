@@ -1,0 +1,10 @@
+{
+  "fusion.resource_packs.requires_newer_version": "(Hecho para una versión más reciente de Fusion)",
+  "fusion.resource_packs.warning_screen.title": "Aviso de versión de Fusion",
+  "fusion.resource_packs.warning_screen.message": "Este paquete de recursos está hecho para una versión más reciente de Fusion y puede que no funcione correctamente con la versión de Fusion instalada actualmente.",
+  "fusion.resource_packs.warning_screen.confirmation": "¿Quieres activar el paquete de recursos de todos modos?",
+  "fusion.resource_packs.warning_screen.current_version": "Versión instalada:",
+  "fusion.resource_packs.warning_screen.required_version": "Versión requerida:",
+  "fusion.resource_packs.warning_screen.cancel": "No",
+  "fusion.resource_packs.warning_screen.confirm": "Sí"
+}

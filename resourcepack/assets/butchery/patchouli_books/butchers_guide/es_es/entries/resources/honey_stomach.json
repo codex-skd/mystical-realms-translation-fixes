@@ -1,0 +1,20 @@
+{
+      "name": "Estómago de Miel",
+    "icon": "butchery:honey_stomach",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:honey_stomach",
+            "link_recipe": true,
+            "title" : "Estómago de Miel",
+            "text": "Los estómagos de miel se obtienen al despedazar abejas. Se pueden combinar con botellas de vidrio para obtener botellas de miel."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:bottledhoneyrecipe"
+        }
+    ]
+}

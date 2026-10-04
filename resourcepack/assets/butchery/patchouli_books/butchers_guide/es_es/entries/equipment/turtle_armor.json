@@ -1,0 +1,26 @@
+{
+      "name": "Armadura de Caparazón de Tortuga",
+    "icon": "butchery:turtle_shell_armor_chestplate",
+    "category": "butchery:equipment",
+    "read_by_default": true,
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:turtle_shell_armor_chestplate",
+            "link_recipe": true,
+            "title" : "Armadura de Caparazón de Tortuga",
+            "text": "La armadura de caparazón de tortuga se puede fabricar a partir de fragmentos de caparazón obtenidos al despedazar tortugas."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:turtleshellfragmentrecipe",
+            "recipe2": "butchery:turtlechestplaterecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:turtleleggingsrecipe",
+            "recipe2": "butchery:turtlebootsrecipe"
+        }
+    ]
+}

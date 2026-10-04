@@ -1,0 +1,13 @@
+{
+    "name": "Robo de Vida",
+    "icon": "apothic_attributes:textures/mob_effect/bleeding.png",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tu $(9)Robo de Vida$() es el porcentaje de daño físico infligido que se añade directamente a tu salud.$(p)Generalmente, solo las armas proporcionan esta estadística."
+        }
+	]
+}

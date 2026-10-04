@@ -1,0 +1,115 @@
+# NOTICE
+
+Mystical Realms Translation & Fixes is a **composite** pack. It contains original work and
+content derived from other Minecraft mods. This file records exactly what is which, so that
+every upstream author is credited and no upstream licence is misrepresented.
+
+The pack's own original contributions are All Rights Reserved — see `LICENSE`. **That claim
+covers only those original contributions and nothing else.**
+
+## 1. Original contributions
+
+Copyright (c) 2026 Stalking Dragons. All Rights Reserved.
+
+- The Spanish (`es_es`) translation text authored for this pack.
+- The corrections catalogued in section 3 below.
+- `build_pack.py`, `scripts/`, `docs/` and the pack documentation.
+
+## 2. Derived content
+
+### 2.1 Translations
+
+`resourcepack/assets/<namespace>/lang/es_es.json` holds Spanish translations of display
+strings authored by other mods. **The English source text is theirs, and so is the design of
+the strings themselves.** Translating a string does not transfer rights in it, and the
+copyright in each mod's text remains with that mod's author.
+
+Translation is a derivative work. Use of these files is therefore subject to the licence of
+the mod each namespace belongs to, and to that mod's terms about redistribution.
+
+The 93 namespaces covered are:
+
+```
+aces_spell_utils        apotheosis             apothic_ascension
+apothic_attributes      apothic_enchanting     apothic_spawners
+aquaculture             aquaculturedelight     aquamirae
+armoroftheages          ars_additions          ars_creo
+ars_elemental           ars_nouveau            balm
+bclib                   better_party_x_xaeros_world_map
+bettercombat            betterend              betterendisland
+bettervillageranimations biomesoplenty          bookshelf
+bountiful               butchery               cataclysm
+craftingtweaks          create                 cucumber
+dangerous               dawnoftimebuilder      deeperdarker
+embeddium               enchdesc               everycomp
+farmer_delight_pizza_lovers
+farmers_sandwiches      farmersdelight          fragmentum
+fusion                  hexerei                idas
+integrated_stronghold   iris                   irons_lib
+irons_patreon_lib        irons_spellbooks       jade
+jei                     jeresources            just_in_nether
+justenoughbreeding      justenoughprofessions  kaelos_gems
+lionfishapi             mcwbridges             mcwroofs
+mes                     mns                    modernfix
+moogs_structures        moonlight              morevillagers
+mysticalagriculture     mysticalautomation     naturescompass
+notenoughcrashes        patchouli              placebo
+quark                   relics                 reliquary
+sodium-extra            sophisticatedbackpacks sophisticatedcore
+spell_power             supermartijn642corelib supplementaries
+terrablender            tombstone             toms_storage
+villagertradingplus     visualworkbench        waystones
+wishfulrecipes          wover                  wover-generator
+wover-ui                xaerobetterpvp         xaerominimap
+xaeroworldmap           yungsapi               zeta
+```
+
+Per-mod authorship and licence terms are those of the respective projects. Nothing in this
+pack grants permission to redistribute any mod's own content beyond what that mod's licence
+already allows, and nothing here overrides a mod's licence.
+
+### 2.2 Patchouli book content
+
+`resourcepack/assets/<mod>/patchouli_books/...` contains Spanish translations of in-game
+guidebook entries for **Apotheosis**, **Butchery** and **Iron's Spellbooks**. The prose,
+structure and page types are those authors' work; only the Spanish rendering is ours.
+
+## 3. Modified copies of upstream files
+
+Four files in this pack are copies of files shipped by other mods, edited to repair broken
+recipe references. Each is listed with its **exact** change. Everything not listed as changed
+is upstream content, reproduced as it ships in the mod.
+
+| File | Upstream mod | Change made |
+| --- | --- | --- |
+| `assets/butchery/patchouli_books/butchers_guide/en_us/entries/blocks/butchers_table.json` | Butchery | Corrected the recipe id typo `crimnsonbutcherstablerecipe` → `crimsonbutcherstablerecipe`. Corrected the unnamespaced recipe reference to `butchery:junglebutcherstablerecipe`. |
+| `assets/butchery/patchouli_books/butchers_guide/en_us/entries/resources/dragon_scale.json` | Butchery | Changed the crafting page type from `patchouli:smithing` to `patchouli:crafting`; the recipes on the page are shaped crafting recipes. |
+| `assets/irons_spellbooks/patchouli_books/iss_guide_book/en_us/entries/progression/late_game.json` | Iron's Spellbooks | Repointed two dangling recipe references to their real recipes: `cryomancer_helmet` → `cryomancer_helmet_crafting`, `pyromancer_helmet` → `pyromancer_helmet_crafting`. |
+| `assets/butchery/models/custom/ravager_carcass.json` | Butchery | Replaced the orphaned `ravager_carcass` model, which carries an illegal element rotation of `-90°`, with Butchery's own already-valid sibling model. This is a verbatim copy of Butchery's `ravager_carcas.json`, credited "Made with Blockbench" by its author. It exists to suppress a model parse error on startup; there is no visual change in game. |
+
+These four are the only files in the pack that are copies of an upstream file rather than a
+translation of one.
+
+## 4. Attribution
+
+Every mod whose content this pack derives from retains full credit for its own work, in-game
+and in its own files. This pack claims none of it.
+
+- **Apotheosis**, **Butchery** and **Iron's Spellbooks** — guidebook content, English source text and, for Butchery, the model file.
+- **Better Villager Animations** — the villager dialogue strings translated in `assets/bettervillageranimations/dialogue/es_es.json`.
+- **Xaero's World Map** — the `better_party_x_xaeros_world_map` namespace.
+- The remaining namespaces listed in 2.1 — their display strings.
+
+Mystical Realms Translation & Fixes is not affiliated with, nor endorsed by, the authors of any
+of these mods.
+
+## 5. Compliance
+
+To reuse anything in this pack, identify which part you are using and satisfy the licence that
+applies to it:
+
+- **Our translations and corrections** — All Rights Reserved, by Stalking Dragons.
+- **Anything derived from a mod** — that mod's own licence and its author's terms.
+
+If you are one of the upstream authors and want a translation of your mod changed or removed,
+that is entirely reasonable: open an issue or send a patch and it will be actioned.

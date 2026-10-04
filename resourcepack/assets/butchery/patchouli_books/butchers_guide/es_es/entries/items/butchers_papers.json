@@ -1,0 +1,20 @@
+{
+      "name": "Papeles de Carnicero",
+    "icon": "butchery:butchers_papers",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:butchers_papers",
+            "link_recipe": true,
+            "title" : "Papeles de Carnicero",
+            "text": "Los papeles de carnicero son una herramienta que se usa para cambiar el tipo de $(l:butchery:blocks/blood_grate)Rejilla de Sangre$(). Haz clic derecho sobre la rejilla mientras sostienes los papeles para cambiar entre los diferentes tipos."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:butcherspapersrecipe"
+        }
+    ]
+}

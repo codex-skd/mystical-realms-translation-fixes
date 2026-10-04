@@ -1,0 +1,16 @@
+{
+  "moogs_structures.config.title": "Moog's Structures",
+  "moogs_structures.config.reload_notice": "Los cambios se aplican tras recargar el mundo (salir al título y volver a entrar, o ejecutar /reload), y solo afectan a los chunks generados recientemente.",
+  "moogs_structures.config.category.replace_vanilla": "Reemplazar estructuras predeterminadas",
+  "moogs_structures.config.category.structures": "Estructuras",
+  "moogs_structures.config.universal_rarity": "Rareza universal",
+  "moogs_structures.config.universal_rarity.tooltip": "Multiplica la distancia entre cada estructura de Moog's. Mayor = más raro, menor = más común.",
+  "moogs_structures.config.all_of_mod": "Todos %s",
+  "moogs_structures.config.mod_rarity.tooltip": "Multiplica la distancia entre cada estructura de %s.",
+  "moogs_structures.config.preview": "Vista previa",
+  "moogs_structures.config.preview.unavailable": "Sin vista previa: este mod no ha establecido un enlace de vista previa (mod_slug).",
+  "moogs_structures.config.enabled": "Activado",
+  "moogs_structures.config.disabled": "Desactivado",
+  "moogs_structures.cloth_required.title": "Moog's Structure Lib",
+  "moogs_structures.cloth_required.message": "La pantalla de configuración de Moog's Structure Lib requiere Cloth Config API. Instálalo para configurar en el juego."
+}

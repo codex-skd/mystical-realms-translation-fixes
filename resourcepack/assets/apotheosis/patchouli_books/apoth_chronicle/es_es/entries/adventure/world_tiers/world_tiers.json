@@ -1,0 +1,37 @@
+{
+    "name": "Niveles Mundiales",
+    "icon": "apotheosis:textures/gui/book/summit_icon.png",
+    "category": "apotheosis:adventure/world_tiers",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Un $(6)Nivel Mundial$() es un modificador de fuerza por jugador para el mundo. Cada nivel controla el tipo de contenido que aparecerá, qué tan fuertes serán los enemigos, qué tipo de bonificaciones podrás recibir y más."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Los Niveles",
+            "text": "Hay cinco niveles, cada uno aumentando la dificultad del mundo y las recompensas disponibles más que el anterior.$(p)Los niveles son $(9)Haven$(), $(9)Frontier$(), $(9)Ascent$(), $(9)Summit$() y $(9)Pinnacle$()."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Aumentos de Nivel",
+            "text": "Cada nivel tiene sus propios aumentos, modificadores que se aplican a los jugadores en ese nivel, así como a los mobs que han aparecido en ese nivel.$(p)Puedes ver todos los aumentos de nivel para cada nivel en la $(l:apotheosis:adventure/world_tiers/select_screen)pantalla de selección de Nivel Mundial$()."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Probabilidades de Soltar por Rareza",
+            "text": "Los Niveles Mundiales también controlan los pesos para cada rareza.$(p)A medida que progresas, los objetos de mayor rareza (y los invasores) se volverán más comunes.$(p)Las probabilidades exactas de drops se muestran en la $(l:apotheosis:adventure/world_tiers/select_screen)pantalla de selección de Nivel Mundial$()."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Gemas",
+            "text": "Los Niveles Mundiales también ajustan qué gemas pueden aparecer, así como con qué Purezas pueden aparecer.$(p)Como antes, las probabilidades de pureza detalladas se pueden encontrar en la pantalla de selección."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Otras Notas",
+            "text": "Los Niveles Mundiales también pueden ajustar las tasas de aparición de otros objetos, como afijos, entradas de botín de afijos y élites.$(p)Estas tasas no se muestran en ningún lugar, pero puedes encontrar contenido diferente por nivel."
+        }
+    ]
+}

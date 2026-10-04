@@ -1,0 +1,40 @@
+{
+      "name": "Mesa de Carnicero de Madera",
+    "icon": "butchery:oak_butchers_table",
+    "category": "butchery:blocks",
+    "read_by_default": true,
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:oak_butchers_table",
+            "link_recipe": true,
+            "title" : "Mesa de Carnicero de Madera",
+            "text": "La mesa de carnicero de madera es un bloque sobre el que se pueden colocar cadáveres para despedazarlos una vez drenados. La mesa NO es necesaria para despedazar cadáveres."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:oakbutcherstablerecipe",
+            "recipe2": "butchery:acaciabutcherstablerecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:birchbutcherstablerecipe",
+            "recipe2": "butchery:crimsonbutcherstablerecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:darkoakbutcherstablerecipe",
+            "recipe2": "butchery:junglebutcherstablerecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:mangrovebutcherstablerecipe",
+            "recipe2": "butchery:sprucebutcherstablerecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:warpedbutcherstablerecipe"
+        }
+    ]
+}

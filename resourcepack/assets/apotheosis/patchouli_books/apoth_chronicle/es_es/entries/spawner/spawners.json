@@ -1,0 +1,17 @@
+{
+    "name": "Generadores de Mobs",
+    "icon": "minecraft:spawner",
+    "category": "apotheosis:spawner/spawner",
+	"flag": "apotheosis:spawner",
+	"sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Un $(9)Generador de Mobs$() es un bloque mágico que puede atraer entidades desde el vacío.$(p)Pero ya lo sabías, así que pasemos a lo nuevo.$(p)En Apotheosis, los generadores se pueden recoger con $(9)Toque de Seda$()."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Recoger un generador de esa manera tendrá un costo adicional de durabilidad.$(p)Los generadores de mobs tienen una serie de $(l:apotheosis:spawner/stats)Estadísticas del Generador$() que controlan su funcionamiento.$(p)Estas estadísticas se pueden cambiar usando $(l:apotheosis:spawner/modifiers)Modificadores de Generador$()."
+        }
+	]
+}

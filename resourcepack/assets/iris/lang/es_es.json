@@ -1,0 +1,13 @@
+{
+  "iris.load.failure.shader": "¡El paquete de shaders falló al cargar! Por favor reporta el error al desarrollador del shader. ",
+  "iris.load.failure.generic": "NeOculus encontró un problema al intentar cargar el shader; por favor reporta esto a los desarrolladores de NeOculus. ",
+  "iris.shaders.ssbofailure": "El shader solicitó una característica específica (SSBO) que no es compatible con tu GPU, podría no funcionar correctamente.",
+  "iris.keybind.wireframe": "Alambre (solo SP)",
+  "iris.keybinds": "NeOculus",
+  "iris.nec.failure.title": "¡[%s] Not Enough Crashes detectado!",
+  "iris.nec.failure.description": "Not Enough Crashes puede romper severamente el juego mientras maneja cierres, y no proporciona resultados precisos.\nUna buena alternativa es MixinTrace, que puede identificar la causa de un cierre de manera más fiable y no pone el juego en un estado inválido.",
+  "iris.unsupported.pack.macos": "\nSe sabe que macOS tiene problemas con muchos paquetes de shaders.",
+  "options.iris.shadowDistance.sodium_tooltip": "La distancia de renderizado de sombras controla cuán lejos puede renderizarse potencialmente el terreno en el paso de sombras. Distancias más cortas significan que se renderizará menos terreno, mejorando la tasa de cuadros. Esta opción no se puede cambiar en paquetes que especifiquen explícitamente una distancia de renderizado de sombras. La distancia de renderizado de sombras real está limitada por la configuración de distancia de renderizado.",
+  "options.iris.colorSpace": "Espacio de color",
+  "options.iris.colorSpace.sodium_tooltip": "El espacio de color al que transformar la pantalla. Funciona sobre los paquetes de shaders. Usa SRGB si no estás seguro."
+}

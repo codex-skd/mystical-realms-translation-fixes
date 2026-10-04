@@ -1,0 +1,39 @@
+{
+    "name": "Aumentación",
+    "icon": "apotheosis:augmenting_table",
+    "category": "apotheosis:adventure/affix_loot",
+    "flag": "apotheosis:adventure",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La $(9)Mesa de Aumentación$() es una estación de elaboración de juego avanzado utilizada para aumentar los afijos individuales de un objeto.$(p)A través de ella, puedes mejorar o re-dados afijos individuales, dejando el resto intacto."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "apotheosis:augmenting_table",
+            "text": "Crear una Mesa de Aumentación requiere enfocar la energía de una $(9)Estrella del Nether$() a través de dos $(9)Perlas Forjadas por Dios$(), usando una $(9)Mesa de Encantamiento$() como base."
+        },
+        {
+            "type": "patchouli:text",
+           	"title": "Ranuras de Entrada",
+           	"text": "La Mesa de Aumentación tiene dos ranuras de entrada.$(p)La ranura superior contiene el objeto que deseas aumentar, el cual debe ser un objeto con afijos.$(p)Normalmente, solo deberías aumentar objetos de al menos rareza $(#ED7014)Mítica$(), aunque podrías considerar aumentar $(#BB00BB)Épicos$() también."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "apotheosis:sigil_of_enhancement",
+            "title": "Ranuras de Entrada",
+            "text": "La ranura inferior contiene $(9)Sigilos de Mejora$(), el objeto combustible utilizado para la Aumentación.$(p)Finalmente, necesitarás seleccionar el afijo deseado del menú desplegable."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Mejora",
+            "text": "La primera operación que se puede realizar en la mesa de aumentación es mejorar un afijo.$(p)Esto cuesta dos $(9)Sigilos de Mejora$() y mejorará la fuerza interna del afijo actual en un 25%.$(p)Cuánto impulso esto proporciona varía según el Afijo."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Re-Dados",
+            "text": "La segunda operación de la mesa de aumentación es re-dados un afijo.$(p)Esto cuesta un $(9)Sigilo de Mejora$() y cambia el afijo seleccionado por otro del mismo tipo.$(p)Las opciones alternativas se mostrarán a la izquierda."
+        }
+    ]
+}
