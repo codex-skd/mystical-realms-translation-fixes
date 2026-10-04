@@ -17,17 +17,35 @@ It is meant to be:
 
 ## Contents
 
-### Spanish translations (`assets/<mod>/lang/es_es.json`)
+### Spanish translations
 
-89 mod namespaces, ~15.3k keys. For mods that already ship a partial `es_es`, only the missing keys
-are added (Minecraft merges lang files across packs). Source text is each mod's own `en_us.json`.
-See `CHANGELOG.md` for the full mod list.
+| | |
+|---|---|
+| **93** mod namespaces | `assets/<mod>/lang/es_es.json` |
+| **14,755** keys | |
+| **188** guidebook entries | `assets/<mod>/patchouli_books/**/es_es/`, for Apotheosis, Butchery and Iron's Spellbooks |
+| **1** dialogue table | `assets/bettervillageranimations/dialogue/es_es.json` |
 
-### Asset fixes
+For mods that already ship a partial `es_es`, only the missing keys are added (Minecraft merges
+lang files across packs). Source text is each mod's own `en_us.json`. See `CHANGELOG.md` for
+the full mod list.
+
+The **Better Villager Animations** dialogue file is the translation table that
+`mystical_realms_modpack_fixes` looks for and does not bundle. Without a resource pack
+supplying it, that mod's Spanish villager overlay stays inert even when the mod is installed
+and the client language is `es_es`.
+
+### Fixes to other mods' own files
+
+Four files are edited copies of files shipped by other mods, to repair broken recipe
+references and a model that fails to parse. All four are itemised in [`NOTICE.md`](NOTICE.md).
 
 | Fix | Path | Why |
 |-----|------|-----|
 | Butchery — `ravager_carcass` model | `assets/butchery/models/custom/ravager_carcass.json` | Butchery 5.2 ships an orphan model file with an illegal element rotation (`angle: -90`, only ±45/±22.5/0 are valid). Nothing references it, but MC 1.21 bulk-loads every `models/**/*.json` at startup and logs a parse error for it. This replaces it with the mod's own already-fixed sibling model (`custom/ravager_carcas.json`), so the load succeeds and the log stays clean. No in-game visual change. |
+| Butchery — `butchers_table` recipe ids | `…/butchers_guide/en_us/entries/blocks/butchers_table.json` | Corrects the recipe id typo `crimnsonbutcherstablerecipe` → `crimsonbutcherstablerecipe`, and an unnamespaced recipe reference → `butchery:junglebutcherstablerecipe`. Both resolve to nothing as shipped, so the recipe links on the page are dead. |
+| Butchery — `dragon_scale` page type | `…/butchers_guide/en_us/entries/resources/dragon_scale.json` | The page was `patchouli:smithing`, but the recipes on it are shaped crafting recipes. Changed to `patchouli:crafting`. |
+| Iron's Spellbooks — `late_game` recipe refs | `…/iss_guide_book/en_us/entries/progression/late_game.json` | Repointed two dangling recipe references to the recipes that actually exist: `cryomancer_helmet` → `cryomancer_helmet_crafting`, `pyromancer_helmet` → `pyromancer_helmet_crafting`. |
 
 ## Requirements
 

@@ -12,6 +12,11 @@ y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 - **`LICENSE`**: el pack lacked a licence file; the README's blanket "All Rights Reserved" was
   in any case wrong, since the pack redistributes content derived from 93 other mods. The new
   licence asserts All Rights Reserved **only** over the pack's own original contributions.
+- **README**: las cifras de contenido eran incorrectas —93 namespaces y 14.755 claves, no 89 y
+  ~15.3k. Faltaban además los 188 ficheros de guidebook y la tabla de diálogo de Better Villager
+  Animations, y los tres_arrégl os de receta de Patchouli no estaban documentados en ningún sitio.
+- **README**: sedocumenta que la tabla de diálogo es la que `mystical_realms_modpack_fixes` busca
+  y no empaqueta, y que sin ella suoverlay de aldeanos en español no hace nada.
 - **`NOTICE`**: desglose exacto de qué es obra propia y qué es derivado. Los 93 namespaces de
   traducción se atribuyen a sus mods, y los cuatro ficheros que son copias editadas de ficheros
   upstream se documentan uno a uno con el cambio exacto realizado.
