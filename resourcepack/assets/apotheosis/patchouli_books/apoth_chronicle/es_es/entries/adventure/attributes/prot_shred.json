@@ -1,0 +1,13 @@
+{
+    "name": "Despedazamiento de Protección",
+    "icon": "apothic_attributes:textures/mob_effect/sundering.png",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "El $(9)Despedazamiento de Protección$() te permite ignorar un porcentaje de los puntos de protección de tu objetivo al atacar.$(p)El $(9)Despedazamiento de Protección$() se aplica antes que la $(9)Perforación de Protección$()."
+        }
+	]
+}

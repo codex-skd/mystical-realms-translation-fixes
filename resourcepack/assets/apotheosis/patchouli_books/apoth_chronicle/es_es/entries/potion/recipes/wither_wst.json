@@ -1,0 +1,19 @@
+{
+    "name": "Decaimiento",
+    "icon": "minecraft:textures/mob_effect/wither.png",
+    "category": "apotheosis:potion/recipes",
+	"flag": "&apotheosis:potion,apotheosis:wstloaded",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(c)Decaimiento$() es un efecto hostil que normalmente no se puede crear.$(p)Mientras lo tienes, recibirás daño cada tick.$(p)A diferencia del Veneno, este daño es letal."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"title": "Receta de Elaboración",
+			"item": "wstweaks:fragment",
+            "text": "Esta poción se puede crear con una Poción Rara y un Fragmento de Calavera Wither.$(p)Se puede ampliar, fortalecer o convertir en poción arrojadiza con los ingredientes habituales."
+        }
+	]
+}

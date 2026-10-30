@@ -1,0 +1,78 @@
+{
+  "name": "Final del Juego",
+  "icon": "irons_spellbooks:arcane_anvil",
+  "category": "irons_spellbooks:root",
+  "sortnum": -1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Yunque Arcano",
+      "text": "El final del juego se alcanza obteniendo netherita y grandes cantidades de recursos básicos, y se impulsa con el Yunque Arcano.$(br2)El Yunque Arcano es la estación de fabricación más poderosa, usada para subir de nivel tus pergaminos, mejorar armaduras y libros de hechizos, e impregnar armas con hechizos."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:arcane_anvil"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Más Libros de Hechizos",
+      "text": "Los mejores libros de hechizos fabricables se muestran aquí. El libro en ruinas se encuentra en Ciudades Antiguas",
+      "recipe": "irons_spellbooks:netherite_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:dragonskin_spell_book",
+      "text": "La piel de dragón la suelta el Dragón del End"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:cryomancer_helmet_crafting",
+      "recipe2": "irons_spellbooks:pyromancer_helmet_crafting",
+      "title": "Armadura de Escuela"
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Ej: Armadura de Criomante",
+      "entity": "minecraft:armor_stand{ArmorItems:[{id:'irons_spellbooks:cryomancer_boots',Count:1b},{id:'irons_spellbooks:cryomancer_leggings',Count:1b},{id:'irons_spellbooks:cryomancer_chestplate',Count:1b},{id:'irons_spellbooks:cryomancer_helmet',Count:1b}],NoBasePlate:1b}",
+      "text": "La armadura de escuela se fabrica con tela arcana y una runa de una escuela particular, siguiendo esta plantilla"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:upgrade_orb",
+      "title": "Mejora",
+      "text": "Las mejoras son la forma final de progresión. Por defecto, cualquier armadura y libros de hechizos se pueden mejorar.$(br2)Las orbs de mejora de un atributo específico se fabrican a partir de una orb de mejora base y 8 runas del atributo deseado."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:upgrade_orb",
+      "recipe2": "irons_spellbooks:fire_upgrade_orb"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Materiales de Fabricación de Mejoras",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          [
+            " D S ",
+            "DA0PF"
+          ]
+        ],
+        "mapping": {
+          "D": "minecraft:deepslate",
+          "A": "irons_spellbooks:deepslate_mithril_ore",
+          "P": "irons_spellbooks:armor_pile",
+          "S": "minecraft:soul_sand",
+          "F": "minecraft:soul_fire"
+        }
+      },
+      "text": "El Mithril es un mineral raro del mundo superior, que se encuentra por debajo de y = -38 y no expuesto al aire. Requiere una pico de netherita."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "irons_spellbooks:citadel_keeper",
+      "text": "La Esencia Cinérea se obtiene de los Caballeros Antiguos, que se pueden despertar rompiendo montones de armaduras en el nether."
+    }
+  ]
+}

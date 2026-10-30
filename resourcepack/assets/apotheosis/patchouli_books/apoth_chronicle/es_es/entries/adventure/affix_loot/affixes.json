@@ -1,0 +1,38 @@
+{
+    "name": "Afijos",
+    "icon": "minecraft:experience_bottle",
+    "category": "apotheosis:adventure/affix_loot",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Un $(6)Afijo$() es la fuerza impulsora detrás de los Objetos con Afijos. Cada afijo es muy similar a un encantamiento, proporcionando un bonus específico al objeto al que está adjunto.$(p)Este libro no listará todos los afijos, ya que eso es para que tú lo descubras, pero te ayudará a explicarlos."
+        },
+		{
+			"type": "patchouli:text",
+			"title": "Tipos de Afijos",
+			"text": "Hay varios tipos diferentes de afijos, cada tipo teniendo un conjunto específico de funcionalidad que puede proporcionar.$(p)Qué tipos de afijos se aplican a un objeto depende de la $(l:apotheosis:adventure/affix_loot/rarities)Rareza$() del objeto."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Afijos de Estadística",
+			"text": "El tipo más común de afijos son los afijos de estadística. Estos afijos proporcionan un bonus simple a un atributo específico, y están disponibles en todas las rarezas. Las rarezas más altas reciben afijos de estadística adicionales."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Afijos de Efecto",
+			"text": "Los afijos de efecto son el tipo más interesante de afijo. Tienen libertad total para añadir todo tipo de funcionalidad adicional a tus objetos, desde simples bonuses de utilidad hasta fuertes efectos de combate.$(p)Estos solo se pueden encontrar en objetos de Rareza o superior."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Ranuras",
+			"text": "Una ranura es un tipo especial de afijo que simplemente proporciona un recipiente para una $(l:apotheosis:adventure/affix_loot/gems)Gema$().$(p)Las gemas pueden convey grandes bonuses, pero pueden ser difíciles de encontrar."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "El Afijo de Durabilidad",
+			"text": "El Afijo de Durabilidad hace que un objeto sea más resistente al daño, y está presente en todos los objetos de Rareza o superior.$(p)Se aplica después de todas las demás resistencias al daño, haciéndolo multiplicativo con la Identidad."
+		}
+	]
+}

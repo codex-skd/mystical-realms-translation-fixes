@@ -1,0 +1,16 @@
+{
+      "name": "Azufre",
+    "icon": "butchery:sulfur",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:sulfur",
+            "link_recipe": true,
+            "title" : "Azufre",
+            "text": "El azufre se usa para crear ácido sulfúrico en un soporte para pociones con azufre crudo y botellas de agua. Con el ácido sulfúrico podrás usarlo en cadáveres para derretir los materiales orgánicos, dejando restos esqueléticos."
+        }
+    ]
+}

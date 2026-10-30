@@ -1,0 +1,6 @@
+{
+    "name": "Módulo de Aldea",
+    "description": "El Módulo de Aldea añade diversas cosas relacionadas con aldeas y aldeanos.",
+    "icon": "minecraft:textures/mob_effect/hero_of_the_village.png",
+	"flag": "apotheosis:village"
+}

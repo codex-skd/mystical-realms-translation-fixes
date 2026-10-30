@@ -1,0 +1,19 @@
+{
+  "entity.just_in_nether.bullkin": "Bullkin",
+  "item.just_in_nether.bullkin_spawn_egg": "Huevo de invocación de Bullkin",
+  "item.just_in_nether.zombified_bullkin_spawn_egg": "Huevo de invocación de Bullkin zombificado",
+  "entity.just_in_nether.zombified_bullkin": "Bullkin zombificado",
+  "entity.just_in_nether.bullkin_brute": "Bullkin bruto",
+  "item.just_in_nether.bullkin_brute_spawn_egg": "Huevo de invocación de Bullkin bruto",
+  "entity.just_in_nether.dullkin": "Dullkin",
+  "item.just_in_nether.dullkin_spawn_egg": "Huevo de invocación de Dullkin",
+  "entity.just_in_nether.zombified_dullkin": "Dullkin",
+  "item.just_in_nether.zombified_dullkin_spawn_egg": "Huevo de invocación de Dullkin",
+  "item.just_in_nether.pigmar_spawn_egg": "Huevo de invocación de Pigmar",
+  "entity.just_in_nether.pigmar": "Pigmar",
+  "entity.just_in_nether.bullkindar": "Bullkindar",
+  "item.just_in_nether.bullkindar_spawn_egg": "Huevo de invocación de Bullkindar",
+  "item.just_in_nether.pigar": "Pigar",
+  "item.just_in_nether.kindarx": "Kindarx",
+  "block.just_in_nether.bullkin_head": "Cabeza de Bullkin"
+}

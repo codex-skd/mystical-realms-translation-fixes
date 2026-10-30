@@ -1,0 +1,16 @@
+{
+      "name": "Atuendo de Bruja",
+    "icon": "butchery:witches_clothes_chestplate",
+    "category": "butchery:equipment",
+    "read_by_default": true,
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:witches_clothes_chestplate",
+            "link_recipe": true,
+            "title" : "Atuendo de Bruja",
+            "text": "Los atuendos de bruja se pueden obtener despedazando Brujas; son puramente cosméticos. Se pueden reciclar combinándolos con un cuchillo de forjar o un cuchillo de despiece en una mesa de trabajo."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Don de la Tierra",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Don de la Tierra$() es un encantamiento de Obra Maestra para picos.$(p)Al minar piedras simples, hay una probabilidad de que se suelte un bloque de mineral."
+        }
+	]
+}

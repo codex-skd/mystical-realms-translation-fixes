@@ -1,0 +1,24 @@
+{
+      "name": "Despedazar Cadáveres",
+    "icon": "butchery:hook",
+    "category": "butchery:guides",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:hook",
+            "link_recipe": true,
+            "title" : "Despedazar Cadáveres",
+            "text": "La mayoría de los cadáveres se despedazan de la misma manera, aunque hay algunas excepciones. Vamos a cubrir el proceso regular de despedazado. Antes de poder despedazar el cadáver, necesitarás colgarlo y drenarlo. Para ello necesitarás un gancho, puedes leer más sobre ellos aquí. Una vez que tengas tu gancho, simplemente haz clic derecho con él mientras sostienes el cadáver, esto colocará el cadáver en el gancho."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Ahora necesitarás un cuchillo de forjar, cualquier material servirá. Haz clic derecho sobre el cadáver colgado mientras sostienes tu cuchillo de forjar y comenzarás a ver sangre goteando. ¡Asegúrate de tener una rejilla de sangre debajo para recoger la sangre, de lo contrario tendrás un desastre enorme! Este proceso solo tarda unos segundos, sabrás que ha terminado cuando el cadáver cambie a sus variantes drenadas (algunas también se vuelven más claras para indicar que están drenadas)."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "¡Ahora tienes un cadáver drenado! Tienes 2 opciones. Dejar el cadáver en el gancho para despedazarlo o romper el cadáver y recogerlo, luego puedes colocarlo en la mesa de carnicero (la mesa no es necesaria). Una vez más con tu fiel cuchillo de forjar, haz clic derecho sobre el cadáver mientras sostienes el cuchillo para empezar a despedazar. La mayoría de los cadáveres requieren una segunda herramienta para despedazarlos, esta herramienta es el cuchillo de despiece. Como puedes adivinar por su nombre, este cuchillo pela el cadáver para obtener la piel (este proceso aplica para quitar armaduras de otros mobs como el Saqueador)."
+        }
+    ]
+}

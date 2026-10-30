@@ -1,0 +1,7 @@
+{
+    "name": "Mobs Apotéicos",
+    "description": "Apotheosis introduce varios subtipos de Mobs que aparecerán en tu mundo.$(p)Esta sección analiza qué tipos de mobs hay y dónde los encontrarás.",
+    "icon": "apotheosis:boss_summoner",
+	"flag": "apotheosis:adventure",
+	"parent": "apotheosis:adventure/adventure"
+}

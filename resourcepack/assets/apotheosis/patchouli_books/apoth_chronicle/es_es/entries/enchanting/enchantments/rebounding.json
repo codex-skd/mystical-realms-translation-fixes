@@ -1,0 +1,13 @@
+{
+    "name": "Rebote",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Rebote$() es un encantamiento para petos y grebas.$(p)Hace que todos los atacantes cuerpo a cuerpo sean lanzados lejos del usuario.$(p)Niveles más altos aumentan la distancia."
+        }
+	]
+}

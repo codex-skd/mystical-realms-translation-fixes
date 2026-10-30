@@ -1,0 +1,13 @@
+{
+    "name": "Bendición de la Naturaleza",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Bendición de la Naturaleza$() es un encantamiento para azadas.$(p)Permite usar una azada como hueso de portal, con un coste de durabilidad.$(p)Niveles de encantamiento más altos reducen el coste de durabilidad."
+        }
+	]
+}

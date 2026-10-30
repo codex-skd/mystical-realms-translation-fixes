@@ -1,0 +1,19 @@
+{
+  "name": "Pergaminos",
+  "icon": "irons_spellbooks:scroll",
+  "category": "irons_spellbooks:root",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Pergaminos",
+      "item": "irons_spellbooks:scroll",
+      "text": "Los pergaminos se pueden encontrar en cofres, como botín de mobs o fabricados. Cada pergamino contiene un hechizo con un nivel, similar a un libro encantado. Los pergaminos se pueden mejorar en el Yunque Arcano combinándolos con la tinta de rareza correspondiente de su siguiente nivel."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Los pergaminos se pueden usar por sí solos para lanzar su hechizo, evitando los costes de maná y el enfriamiento, pero consumiendo el pergamino en el proceso. Principalmente, se inscriben en libros de hechizos para uso continuado, o se reciclan a través del Calderón del Alquimista para convertirse en hechizos más útiles."
+    }
+  ]
+}

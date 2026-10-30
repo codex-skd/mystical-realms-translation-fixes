@@ -1,0 +1,16 @@
+{
+      "name": "Huesos de Wither",
+    "icon": "butchery:wither_bone",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:wither_bone",
+            "link_recipe": true,
+            "title" : "Huesos de Wither",
+            "text": "Huesos de wither obtenidos al despedazar cadáveres de esqueletos con piel de arena. Los huesos se pueden moler en harina de hueso de wither usando el $(l:butchery:blocks/pestle_and_mortar)mortero y mano$(). La harina de hueso se puede usar para convertir rosas normales en rosas del wither; esta conversión es aleatoria, por lo que no funcionará cada vez."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+      "name": "Hueso de la Suerte",
+    "icon": "butchery:wishbone",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:wishbone",
+            "link_recipe": true,
+            "title" : "Hueso de la Suerte",
+            "text": "Los huesos de la suerte se pueden obtener de cadáveres de pollo drenados haciendo clic derecho con la mano vacía; esto es aleatorio, por lo que puedes recibir un hueso de la suerte roto que se puede moler en polvo de hueso en el molinillo de carne. Si tienes éxito en obtener un hueso de la suerte, podrás impregnarlo con la magia de una Estrella del Nether en un soporte para pociones. Esto requiere 3 huesos de la suerte y 1 estrella del nether. Romper un hueso de la suerte mágico causará eventos aleatorios. Algunos serán buenos, otros muy buenos y algunos malos... muy malos. (¡NO ROMPAS EL HUESO DE LA SUERTE MÁGICO EN TU BASE!)"
+        }
+    ]
+}

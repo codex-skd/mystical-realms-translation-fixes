@@ -1,0 +1,22 @@
+{
+  "text.autoconfig.bettercombat.option.client.isAttackInsteadOfMineWhenEnemiesCloseEnabled": "Atacar en lugar de minar",
+  "text.autoconfig.bettercombat.option.client.isAttackInsteadOfMineWhenEnemiesCloseEnabled.@Tooltip": "Atacar en lugar de minar al hacer clic izquierdo, cuando los enemigos están lo suficientemente cerca para golpear",
+  "text.autoconfig.bettercombat.option.client.isSwingThruGrassSmart": "Golpe inteligente a través de hierba",
+  "text.autoconfig.bettercombat.option.client.isSwingThruGrassSmart.@Tooltip": "Solo golpear a través de hierba si hay enemigos en rango de ataque",
+  "text.autoconfig.bettercombat.option.client.isShowingWeaponTrails": "Mostrar estelas de golpe de arma",
+  "text.autoconfig.bettercombat.option.client.isShowingWeaponTrails.@Tooltip": "Renderizar partículas de estela de arma para ataques en todas las perspectivas",
+  "text.autoconfig.bettercombat.option.client.isTooltipAttackRangeReformat": "Descripción de objeto: reformatear rango vanilla",
+  "text.autoconfig.bettercombat.option.client.isTooltipAttackRangeReformat.@Tooltip": "Formatear rango de interacción de entidad a rango de ataque",
+  "text.autoconfig.bettercombat.option.client.swingThruGrassBlacklist": "Lista negra de golpe a través de hierba",
+  "text.autoconfig.bettercombat.option.client.swingThruGrassBlacklist.@Tooltip": "Las armas con un ID que coincida con esta regex nunca golpearán a través de hierba",
+  "text.autoconfig.bettercombat.option.client.mineWithWeaponBlacklist": "Lista negra de minar con arma",
+  "text.autoconfig.bettercombat.option.client.mineWithWeaponBlacklist.@Tooltip": "Las armas con un ID que coincida con esta regex nunca se usarán para recolectar bloques",
+  "text.autoconfig.bettercombat.option.client.mineWithWeaponWhitelist": "Lista blanca de minar con arma",
+  "text.autoconfig.bettercombat.option.client.mineWithWeaponWhitelist.@Tooltip": "Las armas con un ID que coincida con esta regex siempre podrán minar bloques, incluso cuando 'Minar con armas' esté desactivado",
+  "text.autoconfig.bettercombat.option.client.isDebugOBBEnabled": "Hitbox de depuración",
+  "text.autoconfig.bettercombat.option.client.isDebugOBBEnabled.@Tooltip": "Mostrar hitbox de arma cuando se muestran las hitbox de entidades",
+  "text.autoconfig.bettercombat.option.client.firstPersonAnimations": "Animaciones de jugador en primera persona",
+  "text.autoconfig.bettercombat.option.client.firstPersonAnimations.@Tooltip": "Animaciones de ataque del jugador para ser mostradas. Solo se recomienda cambiar si se usan mods de cámara personalizados.",
+  "text.autoconfig.bettercombat.option.client.legAnimationThreshold": "Desactivar animaciones de piernas",
+  "text.autoconfig.bettercombat.option.client.legAnimationThreshold.@Tooltip": "EXPERIMENTAL: Desactivar animaciones de piernas mientras se corre por encima de esta velocidad"
+}

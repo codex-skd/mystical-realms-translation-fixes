@@ -1,0 +1,39 @@
+{
+    "name": "Gemas",
+    "icon": "apotheosis:gem",
+    "category": "apotheosis:adventure/gems",
+	"flag": "apotheosis:adventure",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Una $(9)Gema$() es un cristal de fuerza condensada.$(p)Cuando se encaja en un objeto con afijos, una Gema proporcionará un poderoso bonus.$(p)Las Gemas pueden dar bonuses diferentes en diferentes objetos, y pueden mejorarse."
+        },
+		{
+			"title": "Pureza",
+            "type": "patchouli:text",
+            "text": "Cada gema tiene una Pureza, que va desde $(#808080)Agrietada$() hasta $(6)Perfecta$().$(p)La pureza sola determina la fuerza de la gema, y las gemas de mayor pureza son más caras de mejorar.$(p)Una Gema $(6)Perfecta$() ya no puede ser mejorada."
+        },
+		{
+			"type": "patchouli:text",
+			"title": "Obtener Gemas",
+			"text": "Las gemas se pueden encontrar en el botín de cofres, y raramente se pueden encontrar al matar mobs. Las gemas caen más comunes para jugadores reales, pero tienen una probabilidad muy pequeña de caer de máquinas u otras fuentes de automatización.$(p)Las gemas son más propensas a caer de Jefes."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Encajar Gemas",
+			"text": "Para encajar una gema en un objeto, combina los dos en una Mesa de Herrería.$(p)Cada gema indica en qué objetos puede encajar.$(p)Algunas gemas son $(#C73912)Únicas$(), lo que significa que solo se puede encajar una copia de esa gema en un objeto."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Retirar Gemas",
+			"text": "Retirar gemas de un objeto era un proceso difícil, pero algunos alquimistas ingeniosos descubrieron cómo hacerlo.$(p)Sus notas se detallan en la siguiente página."
+		},
+		{
+            "type": "patchouli:crafting",
+			"recipe": "apotheosis:sigil_of_withdrawal",
+			"title": "Sigilo de Retirada",
+			"text": "Combina un objeto encajado con un $(9)Sigilo de Retirada$() en una mesa de herrería para retirar las gemas encajadas de un objeto. El objeto y todas las gemas serán devueltos."
+		}
+	]
+}

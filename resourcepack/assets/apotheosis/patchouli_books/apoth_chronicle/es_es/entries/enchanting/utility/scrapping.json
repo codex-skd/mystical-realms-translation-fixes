@@ -1,0 +1,29 @@
+{
+    "name": "Tomo de Extracción",
+    "icon": "apothic_enchanting:scrap_tome",
+    "category": "apotheosis:enchanting/utility",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "El Tomo de Extracción es una forma de recuperar encantamientos de un objeto.$(p)Combinarlo con otro objeto en una yunque destruirá el otro objeto y creará un libro con algunos de los encantamientos al azar."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "apothic_enchanting:scrap_tome",
+			"text": "Siempre recibirás la mitad de los encantamientos (redondeando hacia arriba).$(p)Los encantamientos seleccionados se basan en tu $(l:apotheosis:enchanting/table/seed)Semilla de Encantamiento$()."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Extracción Superior",
+			"item": "apothic_enchanting:improved_scrap_tome",
+			"text": "El $(9)Tomo de Extracción Superior$() es una versión mejorada del Tomo de Extracción.$(p)Extrae todos los encantamientos del objeto, en lugar de la mitad."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"item": "apothic_enchanting:extraction_tome",
+			"text": "El $(9)Tomo de Extracción Perfecta$() es una versión perfeccionada del Tomo de Extracción.$(p)Extrae todos los encantamientos de un objeto y no lo destruye en el proceso."
+		}
+	]
+}

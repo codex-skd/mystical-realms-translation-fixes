@@ -1,0 +1,30 @@
+{
+      "name": "Cuchillos de Despiece",
+    "icon": "butchery:iron_skinning_knife",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:iron_skinning_knife",
+            "link_recipe": true,
+            "title" : "Cuchillos de Despiece",
+            "text": "Los cuchillos de despiece se usan para pelar mobs y obtener su pelaje/piel. Para pelar un cadáver, primero debe estar completamente drenado, luego haz clic derecho sobre el cadáver mientras sostienes el cuchillo de despiece. Al igual que los cuchillos de forjar, los cuchillos de despiece vienen en 5 materiales; todos hacen lo mismo, de nuevo con la excepción de la Netherita que es lo suficientemente fuerte para pelar cadáveres de jefes."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:boneskinningkniferecipe",
+            "recipe2": "butchery:ironskinningkniferecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:goldskinningkniferecipe",
+            "recipe2": "butchery:diamondskinningkniferecipe"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "butchery:netheriteskinningkniferecipe"
+        }
+    ]
+}

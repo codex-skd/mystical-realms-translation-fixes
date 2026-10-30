@@ -1,0 +1,17 @@
+{
+    "name": "Encantabilidad",
+    "icon": "minecraft:golden_sword",
+    "category": "apotheosis:enchanting/changes",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "En Vanilla, todos los objetos sin una $(l:apotheosis:enchanting/table/enchantability)Encantabilidad de Objeto$() explícita tienen un valor predeterminado de cero.$(p)Apotheosis cambia el valor predeterminado a uno.$(p)Esto tiene el efecto secundario de hacer que algunos objetos sean encantables sin intención."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Este ajuste no cambia la encantabilidad de los objetos que ya tienen un valor explícito.$(p)Los objetos con una encantabilidad de cero nunca podrán ser encantados."
+        }
+	]
+}

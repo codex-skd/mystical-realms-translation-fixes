@@ -1,0 +1,15 @@
+{
+  "text.autoconfig.betterendisland-fabric-1_21.title": "YUNG's Better End Island",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg": "El dragón invocado de nuevo suelta un huevo",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg.@Tooltip": "Si el Enderdragón suelta un huevo cada vez que es derrotado",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform": "Generar plataforma de obsidiana vanilla",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform.@Tooltip": "Si la plataforma de obsidiana vanilla debe generarse en el End en lugar de la plataforma renovada",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways": "Generar portales del End vanilla",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways.@Tooltip": "Si los portales del End vanilla deben generarse en el End en lugar de los portales renovados",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound": "Reproducir sonido de campana",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound.@Tooltip": "Si el sonido de la campana debe reproducirse antes de invocar al Enderdragón por primera vez y durante las reinvocaciones",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially": "Generar torre central inicialmente",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially.@Tooltip": "Si la torre central debe generarse en el End cuando el mundo se genera por primera vez",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon": "Regenerar torre central al reinvocar",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon.@Tooltip": "Si la torre central debe regenerarse en el End cuando se reinvoca al Enderdragón"
+}

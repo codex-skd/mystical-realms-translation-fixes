@@ -1,0 +1,16 @@
+{
+      "name": "Sangre",
+    "icon": "butchery:blood_bucket",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:blood_bucket",
+            "link_recipe": true,
+            "title" : "Sangre",
+            "text": "La sangre es un recurso del que tendrás mucho. Se obtiene al drenar cadáveres/cuerpos teniendo una $(l:butchery:blocks/blood_grate)Rejilla de Sangre$() debajo para recoger la sangre. La sangre se puede extraer de la rejilla con un cubo o una botella. La sangre embotellada se puede usar en las recetas del $(l:butchery:blocks/meat_grinder)Molinillo de Carne$() para obtener morcillas."
+        }
+    ]
+}

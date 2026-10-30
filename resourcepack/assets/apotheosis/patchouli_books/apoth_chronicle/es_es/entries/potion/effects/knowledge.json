@@ -1,0 +1,17 @@
+{
+    "name": "Conocimiento Ancestral",
+    "icon": "minecraft:experience_bottle",
+    "category": "apotheosis:potion/effects",
+	"flag": "apotheosis:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La Poción de $(9)Conocimiento Ancestral$() es un efecto beneficioso.$(p)Mientras estás bajo sus efectos, cualquier experiencia generada de los mobs que matas se multiplica."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "En el Nivel I, cuadruplica las gotas de experiencia.$(p)En el Nivel II, las multiplica por 8."
+        }
+	]
+}

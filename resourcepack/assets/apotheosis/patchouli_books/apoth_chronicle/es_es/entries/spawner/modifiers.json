@@ -1,0 +1,37 @@
+{
+    "name": "Modificadores de Generador",
+    "icon": "minecraft:clock",
+    "category": "apotheosis:spawner/spawner",
+	"flag": "apotheosis:spawner",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Después de leer sobre las $(l:apotheosis:spawner/stats)Estadísticas del Generador$(), te preguntarás cómo cambiarlas.$(p)Entra en los $(9)Modificadores de Generador$(), un sistema para editar generadores.$(p)Un modificador consiste en hasta dos ítems, y produce un cambio determinado en las estadísticas de un generador."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Ver Modificadores",
+            "text": "Cada modificador es visible en JEI.$(p)Se puede acceder mirando tanto los usos como las recetas de $(9)Generadores de Mobs$(), o los usos de los ítems modificadores.$(p)Hay muchas descripciones emergentes, así que mira alrededor."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Notación",
+            "text": "En JEI, los cambios de estadísticas se anotan como$(br)$(9)+/- X Estadística$().$(p)Algunas estadísticas no tienen valores numéricos, así que se mostrarán como $(9)+/- Estadística$().$(p)En las descripciones emergentes, las estadísticas no numéricas no se muestran a menos que estén habilitadas."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Límites de Modificadores",
+            "text": "Ciertos modificadores no pueden reducir o aumentar estadísticas más allá de un valor determinado.$(p)Esto se anotará en la descripción emergente de esa estadística particular en JEI.$(p)Estos límites son específicos del modificador, por lo que un modificador puede tener un límite diferente a otro para la misma estadística."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Aplicar Modificadores",
+            "text": "Para aplicar un modificador, simplemente sostén los ítems respectivos en tus manos y haz clic derecho en el $(9)Generador de Mobs$().$(p)Si la modificación es exitosa, los ítems serán consumidos.$(p)El ítem principal siempre se consume, pero el ítem secundario puede que no."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Aunque JEI indique que los ítems deben sostenerse en manos específicas, eso no es necesario.$(p)Puedes aplicar un modificador siempre que tengas los ítems en tus manos, independientemente de cuál."
+        }
+	]
+}

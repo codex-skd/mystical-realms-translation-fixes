@@ -1,0 +1,13 @@
+{
+    "name": "Pesca con Lanza",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Pesca con Lanza$() es un encantamiento de tridente.$(p)Otorga a las muertes con un tridente lanzado un 3,5% de probabilidad por nivel de soltar algunos peces aleatorios."
+        }
+	]
+}

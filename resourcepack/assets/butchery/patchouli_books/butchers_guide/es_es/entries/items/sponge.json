@@ -1,0 +1,21 @@
+{
+    "name": "Esponja",
+    "icon": "butchery:sponge",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:sponge",
+            "link_recipe": true,
+            "title" : "Esponja",
+            "text": "Las esponjas tienen múltiples usos. Uno de ellos es que te permiten limpiar la mesa de carnicero cuando está cubierta de sangre. También se puede usar para limpiar sangre del suelo si estás sangrando cadáveres sin una rejilla de sangre debajo. La esponja también se puede usar para humedecer las pieles antes de salarlas."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:spongerecipe",
+            "text": "La receta anterior se puede invertir. Para mojar una esponja, necesitas hacer clic derecho sobre un bloque de agua o un caldero lleno de agua."
+        }
+    ]
+}

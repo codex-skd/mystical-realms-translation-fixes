@@ -1,0 +1,20 @@
+{
+      "name": "Pieles",
+    "icon": "butchery:cow_skin",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:cow_skin",
+            "link_recipe": true,
+            "title" : "Piel",
+            "text": "Las pieles se obtienen al despedazar cadáveres. Se pueden usar en el $(l:butchery:blocks/skin_rack)Soporte de Pieles$() y convertirse en cuero."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:butcherspapersrecipe"
+        }
+    ]
+}

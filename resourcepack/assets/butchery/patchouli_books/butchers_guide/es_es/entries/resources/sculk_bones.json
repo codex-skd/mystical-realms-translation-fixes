@@ -1,0 +1,16 @@
+{
+      "name": "Huesos de Sculk",
+    "icon": "butchery:sculk_bone",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:sculk_bone",
+            "link_recipe": true,
+            "title" : "Huesos de Sculk",
+            "text": "Huesos de sculk obtenidos al despedazar cadáveres de guardián de la deepslate. Los huesos se pueden moler en harina de hueso de sculk usando el $(l:butchery:blocks/pestle_and_mortar)mortero y mano$(). La harina de hueso se puede usar para convertir bloques de césped en sculk."
+        }
+    ]
+}

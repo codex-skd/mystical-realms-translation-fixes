@@ -1,0 +1,16 @@
+{
+      "name": "Alas de Murciélago",
+    "icon": "butchery:bat_wing",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:bat_wing",
+            "link_recipe": true,
+            "title" : "Alas de Murciélago",
+            "text": "Las alas de murciélago se obtienen al despedazar murciélagos. Se pueden preparar con pociones imprecisas para obtener pociones de caída lenta."
+        }
+    ]
+}

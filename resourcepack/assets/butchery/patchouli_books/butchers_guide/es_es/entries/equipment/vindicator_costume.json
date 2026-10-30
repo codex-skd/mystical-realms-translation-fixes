@@ -1,0 +1,16 @@
+{
+    "name": "Atuendo de Vindicador",
+    "icon": "butchery:vindicatorarmor_chestplate",
+    "category": "butchery:equipment",
+    "read_by_default": true,
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:vindicatorarmor_chestplate",
+            "link_recipe": true,
+            "title" : "Atuendo de Vindicador",
+            "text": "Los atuendos de vindicador se pueden obtener despedazando Vindicadores; son puramente cosméticos. Se pueden reciclar combinándolos con un cuchillo de forjar o un cuchillo de despiece en una mesa de trabajo."
+        }
+    ]
+}

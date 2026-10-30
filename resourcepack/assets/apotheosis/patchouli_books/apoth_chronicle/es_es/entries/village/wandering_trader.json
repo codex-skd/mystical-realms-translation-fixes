@@ -1,0 +1,21 @@
+{
+  "name": "Mercader Ambulante",
+  "icon": "minecraft:emerald",
+  "category": "apotheosis:village/village",
+  "flag": "apotheosis:village",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "¿Alguna vez has conocido a esos mercaderes sospechosos que simplemente aparecen en tu jardín?$(p)A esos se les llama $(9)Mercaderes Ambulantes$().$(p)Normalmente solo venden basura."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Sin embargo, Apotheosis añade un montón de nuevos comercios a sus tablas para que realmente valga la pena interactuar con ellos.$(p)Estos comercios incluyen objetos como $(9)Balizas$() o $(9)Tótems de la Inmortalidad$(), y equipamiento de diamante fuertemente encantado."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Apotheosis también mejora las tasas de aparición de los Mercaderes Ambulantes, y les permite aparecer bajo tierra, en lugar de solo en la superficie."
+    }
+  ]
+}

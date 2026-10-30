@@ -1,0 +1,20 @@
+{
+      "name": "Soporte de Pieles",
+    "icon": "butchery:skin_rack",
+    "category": "butchery:blocks",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:skin_rack",
+            "link_recipe": true,
+            "title" : "Soporte de Pieles",
+            "text": "El soporte de pieles se puede usar para convertir pieles de animales en cuero. Para usar el soporte de pieles, coloca una piel de mob haciendo clic derecho sobre el soporte mientras sostienes la piel. Una vez colocada, usa una esponja mojada, un trapo o una botella de agua para humedecer la piel. Finalmente, haz clic derecho sobre la piel mojada mientras sostienes un poco de sal. Después de seguir estos pasos, necesitarás esperar a que la piel se cure y se convierta en cuero."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:skinrackrecipe"
+        }
+    ]
+}

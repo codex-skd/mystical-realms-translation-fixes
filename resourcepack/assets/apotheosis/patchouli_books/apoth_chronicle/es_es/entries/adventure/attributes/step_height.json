@@ -1,0 +1,13 @@
+{
+    "name": "Altura de Paso",
+    "icon": "minecraft:iron_boots",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La $(9)Altura de Paso$() cambia la altura a la que puedes subir bloques automáticamente.$(p)Solo se encuentra en botas."
+        }
+	]
+}

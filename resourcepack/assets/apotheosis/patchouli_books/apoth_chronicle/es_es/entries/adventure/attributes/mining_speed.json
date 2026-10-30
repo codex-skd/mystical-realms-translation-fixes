@@ -1,0 +1,13 @@
+{
+    "name": "Velocidad de Minería",
+    "icon": "minecraft:netherite_pickaxe",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Aumentar tu $(9)Velocidad de Minería$() aumenta la rapidez con la que rompes bloques. Con el valor base de 1.0, rompes bloques normalmente.$(p)Se encuentra en picos y palas."
+        }
+	]
+}

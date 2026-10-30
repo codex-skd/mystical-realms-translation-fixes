@@ -1,0 +1,27 @@
+{
+    "name": "Selección de Nivel",
+    "icon": "apotheosis:textures/gui/book/haven_icon.png",
+    "category": "apotheosis:adventure/world_tiers",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La $(9)pantalla de selección de Nivel Mundial$() es tu página completa para aprender sobre y gestionar los $(6)Niveles Mundiales$().$(p)Se puede abrir usando la tecla \"Abrir selección de Nivel Mundial\", que por defecto es CTRL+T."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Activar Niveles",
+            "text": "Los niveles no se activan automáticamente. Cuando desbloqueas un nuevo nivel, primero necesitas usar el botón \"Activar\" para habilitarlo.$(p)Puedes seleccionar un nivel haciendo clic en el símbolo del nivel en la pantalla, y luego activarlo usando el botón."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Información del Nivel",
+            "text": "Para ver información sobre un nivel, selecciona el nivel, luego presiona el botón \"Información Detallada\".$(p)Esto te mostrará los pesos de rareza y pureza para ese nivel, así como cualquier Aumento de Nivel que se aplicará."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Notas",
+            "text": "Puedes cambiar entre niveles en cualquier momento.$(p)En multijugador, varios jugadores pueden tener diferentes niveles sin afectarse entre sí. La mayoría del contenido resolverá el nivel del jugador más cercano."
+        }
+    ]
+}

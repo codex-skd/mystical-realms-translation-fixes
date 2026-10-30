@@ -1,0 +1,13 @@
+{
+    "name": "Velocidad de Ataque",
+    "icon": "minecraft:golden_sword",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La $(9)Velocidad de Ataque$() controla con qué frecuencia puedes atacar. Si tu velocidad de ataque es 2, puedes atacar dos veces por segundo.$(p)Varios objetos pueden aumentar tu velocidad de ataque."
+        }
+	]
+}

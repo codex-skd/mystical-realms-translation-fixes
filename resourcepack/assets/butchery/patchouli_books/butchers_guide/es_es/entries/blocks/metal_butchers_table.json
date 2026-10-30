@@ -1,0 +1,20 @@
+{
+      "name": "Mesa de Carnicero Metálica",
+    "icon": "butchery:metal_butchers_table",
+    "category": "butchery:blocks",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:metal_butchers_table",
+            "link_recipe": true,
+            "title" : "Mesa de Carnicero Metálica",
+            "text": "La mesa de carnicero metálica, al igual que las de madera, es un bloque sobre el que se pueden colocar cadáveres para despedazarlos una vez drenados. La mesa NO es necesaria para despedazar cadáveres."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:metalbutcherstablerecipe"
+        }
+    ]
+}

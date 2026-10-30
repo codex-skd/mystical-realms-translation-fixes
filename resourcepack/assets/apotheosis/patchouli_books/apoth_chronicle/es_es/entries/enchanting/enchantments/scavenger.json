@@ -1,0 +1,17 @@
+{
+    "name": "Carroñero",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Carroñero$() es un encantamiento Maestro para espadas.$(p)Otorga un 2,5% de probabilidad por nivel para tirar el botín dos veces al matar a una entidad.$(p)Cuando tiene éxito, será como si hubieras matado a dos de la misma entidad."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Este encantamiento funciona con todas las entidades, incluyendo jefes como los $(8)Withers$().$(p)También se combina con $(9)Saqueo$()."
+        }
+	]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Sobrecuración",
+    "icon": "minecraft:experience_bottle",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tener $(9)Sobrecuración$() significa que parte del daño físico que infliges se obtendrá como un escudo de absorción. A diferencia del robo de vida, la Sobrecuración funciona cuando tienes salud completa.$(p)Esta estadística solo se encuentra en armas pesadas."
+        }
+	]
+}

@@ -1,0 +1,20 @@
+{
+      "name": "Púa de Guardián Anciano",
+    "icon": "butchery:elder_guardian_spike",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:elder_guardian_spike",
+            "link_recipe": true,
+            "title" : "Púa de Guardián Anciano",
+            "text": "Púas obtenidas durante el proceso de despedazado de Guardianes Ancianos. Se pueden usar para crear una trampa de púas que inflige daño cuando mobs y jugadores entran en contacto con ella."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:spiketraprecipe"
+        }
+    ]
+}

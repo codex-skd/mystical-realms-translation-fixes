@@ -1,0 +1,13 @@
+{
+    "name": "Salud Máxima",
+    "icon": "minecraft:apple",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La $(9)Salud Máxima$() controla la cantidad de puntos de salud (PS) que tienes. Un punto es medio corazón.$(p)Generalmente proporcionada por armadura o escudos."
+        }
+	]
+}

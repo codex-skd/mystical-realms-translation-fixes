@@ -1,0 +1,49 @@
+{
+    "name": "Refundición",
+    "icon": "apotheosis:reforging_table",
+    "category": "apotheosis:adventure/affix_loot",
+	"flag": "apotheosis:adventure",
+	"sortnum": 4,
+    "pages": [
+		{
+            "type": "patchouli:text",
+            "text": "A través del potencial puro de los $(9)Materiales de Rareza$() y la versatilidad del $(9)Polvo de Gema$(), ahora es posible refundir un objeto con afijos completamente nuevos.$(p)La refundición no se limita a objetos que ya tengan afijos, y puede realizarse con cualquier objeto válido."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "apotheosis:simple_reforging_table",
+			"text": "Para comenzar a refundir, elabora una $(#5555FF)Mesa de Refundición Simple$(), que te permite refundir objetos hasta la rareza $(#5555FF)Rara$()."
+		},
+		{
+            "type": "patchouli:text",
+			"title": "Ranuras de Entrada",
+			"text": "La Mesa de Refundición tiene tres ranuras de entrada.$(p)La ranura central contiene el objeto que deseas refundir.$(p)La ranura superior izquierda contiene $(9)Materiales de Rareza$() para la rareza con la que deseas refundir."
+        },
+		{
+            "type": "patchouli:crafting",
+            "recipe": "apotheosis:sigil_of_rebirth",
+			"title": "Ranuras de Entrada",
+			"text": "La ranura inferior derecha contiene $(9)Sigilos de Renacimiento$(), un objeto combustible único utilizado durante el proceso de Refundición."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Refundición",
+			"text": "Similar a una Mesa de Encantamiento, al refundir, se ofrecen tres opciones.$(p)Cada opción representa una posible nueva forma del objeto que está siendo refundido.$(p)Ninguna opción es inherentemente más fuerte que las demás."
+        },
+		{
+			"type": "patchouli:text",
+			"title": "Refundición",
+			"text": "Para cada rareza, hay un costo base de experiencia, sigilos y materiales. Las ranuras de opción extra cobran el doble y el triple del costo base.$(p)Para refundir tu objeto, simplemente haz clic en la opción deseada."
+		},
+        {
+            "type": "patchouli:crafting",
+			"recipe": "apotheosis:reforging_table",
+			"text": "Para refundir objetos de rareza $(#BB00BB)Épica$() o superior, necesitarás mejorar tu $(#5555FF)Mesa de Refundición Simple$() a una $(#BB00BB)Mesa de Refundición$()."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Notas",
+			"text": "Los objetos que no tienen afijos pueden ser refundidos.$(p)Los objetos pueden ser refundidos múltiples veces.$(p)Los modpacks pueden cambiar los costos o prevenir la refundición en ciertas rarezas."
+		}
+	]
+}

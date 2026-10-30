@@ -1,0 +1,20 @@
+{
+      "name": "Tarro",
+    "icon": "butchery:jar",
+    "category": "butchery:blocks",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:jar",
+            "link_recipe": true,
+            "title" : "Tarro",
+            "text": "Los tarros se pueden usar para exhibir diferentes órganos. Para añadir un órgano al tarro, simplemente haz clic derecho con el órgano en la mano; consumirá el órgano, pero para recuperarlo simplemente rompe el tarro."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:jarrecipe"
+        }
+    ]
+}

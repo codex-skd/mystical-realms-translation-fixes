@@ -1,0 +1,16 @@
+{
+      "name": "Huesos de Dragón",
+    "icon": "butchery:dragon_bone",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:dragon_bone",
+            "link_recipe": true,
+            "title" : "Huesos de Dragón",
+            "text": "Huesos de dragón obtenidos al despedazar Dragones del End. Son una pieza vital para obtener $(l:butchery:equipment/dragon_scale_armor)Armadura de Escamas de Dragón$(). Deben afilarse en una cortadora de piedra para obtener Huesos de Dragón con Púas."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+      "name": "Alitas de Abeja",
+    "icon": "butchery:bee_wings",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:bee_wings",
+            "link_recipe": true,
+            "title" : "Alitas de Abeja",
+            "text": "Las alitas de abeja obtenidas al despedazar abejas se pueden preparar con pociones imprecisas para obtener pociones de caída lenta."
+        }
+    ]
+}

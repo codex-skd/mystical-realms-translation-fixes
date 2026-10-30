@@ -1,0 +1,42 @@
+{
+    "name": "Desbloquear Niveles",
+    "icon": "apotheosis:textures/gui/book/frontier_icon.png",
+    "category": "apotheosis:adventure/world_tiers",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Cada $(6)Nivel Mundial$() debe ser desbloqueado antes de poder habilitarlo (excepto Refugio, que está habilitado por defecto).$(p)Desbloquear niveles mundiales se hace completando Avances específicos.$(p)Una vez que un nivel está desbloqueado, necesitas activarlo en la $(l:apotheosis:adventure/world_tiers/select_screen)pantalla de Selección$()."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Prefacio",
+            "text": "Esta sección cubrirá los requisitos predeterminados para desbloquear niveles mundiales.$(p)Ten en cuenta que los modpacks pueden cambiar estos requisitos, así que asegúrate de consultar la pestaña de avances \"Apothic World Tiers\" para información completa."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Haven",
+            "text": "$(9)Haven$() se desbloquea por defecto, aunque no podrás verlo hasta que recojas tu primer Objeto con Afijo."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Frontier",
+            "text": "$(9)Frontier$() se desbloquea equipando un Objeto con Afijo en cada ranura de armadura, y sosteniendo un Arma con Afijo en cualquiera de las manos."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Ascent",
+            "text": "Desbloquear $(9)Ascent$() requiere que equipes un conjunto completo de Objetos con Afijo $(#33FF33)Poco Comunes$(), incluyendo un arma.$(p)También necesitarás derrotar a un Invasor Apothic."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Summit",
+            "text": "Llegar a $(9)Summit$() es un poco más difícil.$(p)Necesitarás conseguir un conjunto completo de Objetos con Afijo $(#5555FF)Raros$(), y haber derrotado al Wither."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Pinnacle",
+            "text": "El nivel final, $(9)Pinnacle$(), requiere que no solo obtengas un conjunto completo de objetos $(#BB00BB)Épicos$(), sino que también liberes el End.$(p)Eso significa derrotar al Ender Dragon."
+        }
+    ]
+}

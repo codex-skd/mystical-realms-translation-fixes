@@ -1,0 +1,17 @@
+{
+    "name": "Heridas Graves",
+    "icon": "apothic_attributes:textures/mob_effect/grievous.png",
+    "category": "apotheosis:potion/effects",
+	"flag": "apotheosis:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La Poción de $(c)Heridas Graves$() es un efecto negativo.$(p)Mientras estás bajo sus efectos, toda la curación recibida se reduce."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "La reducción de curación es igual al 40% por nivel.$(p)Con nivel III o superior, toda curación se previene."
+        }
+	]
+}

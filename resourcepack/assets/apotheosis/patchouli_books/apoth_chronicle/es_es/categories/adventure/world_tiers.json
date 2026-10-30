@@ -1,0 +1,7 @@
+{
+    "name": "Niveles Mundiales",
+    "description": "A medida que te haces más fuerte, también lo hace el mundo a tu alrededor.$(p)Esta sección cubre los Niveles Mundiales Apotéicos: qué cambian, cómo desbloquearlos y cómo cambiar el actual.",
+    "icon": "apotheosis:textures/gui/book/summit_icon.png",
+    "flag": "apotheosis:adventure",
+    "parent": "apotheosis:adventure/adventure"
+}

@@ -1,0 +1,20 @@
+{
+      "name": "Despedazar Jefes",
+    "icon": "butchery:ender_dragon_carcass",
+    "category": "butchery:guides",
+    "read_by_default": true,
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:ender_dragon_carcass",
+            "link_recipe": true,
+            "title" : "Despedazar Jefes",
+            "text": "Despedazar jefes es un poco diferente a los mobs normales, pero en su mayoría es igual. Debido al enorme tamaño y peso de estos tipos, no puedes recogerlos, créeme.. lo he intentado. De todas formas, una vez que des el golpe final con el cuchillo de forjar (o cualquier herramienta si está habilitado en el archivo de configuración), el cadáver del jefe caerá al suelo o flotará si es el guardián anciano. El siguiente paso es realmente simple, ¡toma tu cuchillo de forjar y empieza a despedazar!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Pero hay un requisito para poder obtener y despedazar cadáveres de jefes, necesitarás usar un Cuchillo de Forjar de Netherita."
+        }
+    ]
+}

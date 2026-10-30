@@ -1,0 +1,20 @@
+{
+      "name": "Molinillo de Carne",
+    "icon": "butchery:meat_grinder",
+    "category": "butchery:blocks",
+    "read_by_default": true,
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:meat_grinder",
+            "link_recipe": true,
+            "title" : "Molinillo de Carne",
+            "text": "El molinillo de carne se puede usar para crear múltiples alimentos diferentes. Primero, puede moler carne de res o cordero para hacer carne picada que se puede usar en más recetas o simplemente cocinar y comer. Otro alimento son las salchichas, que requieren algunos objetos más como: el accesorio de relleno de salchichas, intestinos y, si estás haciendo morcillas, ¡sangre! El molinillo de carne también se puede usar para triturar cadáveres y cabezas sobrantes en restos de carne."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:meatgrinderrecipe"
+        }
+    ]
+}

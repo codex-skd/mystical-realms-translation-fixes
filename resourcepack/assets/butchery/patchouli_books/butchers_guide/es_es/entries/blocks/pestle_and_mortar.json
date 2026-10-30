@@ -1,0 +1,20 @@
+{
+      "name": "Mortero y Mano",
+    "icon": "butchery:pestle_and_mortar",
+    "category": "butchery:blocks",
+    "read_by_default": true,
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:pestle_and_mortar",
+            "link_recipe": true,
+            "title" : "Mortero y Mano",
+            "text": "El mortero y mano tiene usos similares al molinillo, ya que puede triturar ciertos objetos. Por ejemplo, los huesos de la suerte se pueden moler en polvo de hueso, las pezuñas en bolas de slime y los huesos añadidos por Carnicería en sus respectivos polvos de hueso."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:pestle_and_mortar_recipe"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Tridentes",
+    "icon": "minecraft:trident",
+    "category": "apotheosis:enchanting/changes",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Junto con los nuevos encantamientos, los tridentes ahora también pueden recibir $(9)Filotez$(), $(9)Botín$() y $(9)Perforación$().$(p)Filotez y Botín funcionan como en las espadas.$(p)Perforación causa que los tridentes lanzados puedan golpear enemigos adicionales."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"title": "Crear Tridentes",
+			"item": "apothic_enchanting:inert_trident",
+			"link_recipe": true,
+            "text": "Apotheosis también añade un método para crear tridentes.$(p)Simplemente crea un $(9)Tridente Inerte$() y mejoralo a través de $(l:apotheosis:enchanting/table/infusion)Encantamiento de Infusión$()."
+        }
+	]
+}

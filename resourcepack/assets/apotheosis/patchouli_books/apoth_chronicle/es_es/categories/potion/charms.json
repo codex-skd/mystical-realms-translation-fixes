@@ -1,0 +1,8 @@
+{
+    "name": "Talismanes de Poción",
+	"parent": "apotheosis:potion/potion",
+    "description": "Esta sección detalla los $(9)Talismanes de Poción$() y todos sus usos y matices.$(p)Si otros módulos están desactivados, o algunos mods no están instalados, esta sección puede estar un poco vacía.",
+    "icon": "apotheosis:potion_charm",
+	"flag": "apotheosis:potion",
+	"sortnum": 1
+}

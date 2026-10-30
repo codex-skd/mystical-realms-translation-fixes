@@ -1,0 +1,13 @@
+{
+    "name": "Resistencia al Golpe",
+    "icon": "minecraft:shulker_shell",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La $(9)Resistencia al Golpe$() es la resistencia que tienes a ser empujado por ataques. Con el valor máximo, eres inmune al golpe.$(p)Generalmente proporcionada por armadura o escudos."
+        }
+	]
+}

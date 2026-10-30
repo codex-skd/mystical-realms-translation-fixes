@@ -1,0 +1,7 @@
+{
+    "name": "Gemas y Ranuras",
+    "description": "Una piedra brillante siempre probablemente atraerá la atención.$(p)Busca las Gemas Apotéicas, objetos que pueden proporcionar bonificaciones cuando se insertan en Objetos con Afijos.",
+    "icon": "apotheosis:gem",
+	"flag": "apotheosis:adventure",
+	"parent": "apotheosis:adventure/adventure"
+}

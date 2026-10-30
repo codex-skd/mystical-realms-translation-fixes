@@ -1,0 +1,22 @@
+{
+  "better_party_x_xaeros_world_map.loaded": "Integración de Better Party para Xaero's World Map cargada",
+  "better_party_x_xaeros_world_map.common.back": "Volver",
+  "better_party_x_xaeros_world_map.common.close": "×",
+  "better_party_x_xaeros_world_map.common.yes": "Sí",
+  "better_party_x_xaeros_world_map.common.no": "No",
+  "better_party_x_xaeros_world_map.settings.no_party": "Actualmente no estás en un grupo.",
+  "better_party_x_xaeros_world_map.settings.personal.title": "Visualización del mapa de Xaero",
+  "better_party_x_xaeros_world_map.settings.personal.section": "Tu visualización",
+  "better_party_x_xaeros_world_map.settings.personal.allowed": "El administrador del grupo permite marcadores en el mapa. Tu elección personal solo afecta a este cliente.",
+  "better_party_x_xaeros_world_map.settings.personal.blocked": "El administrador del grupo ha deshabilitado los marcadores en el mapa para este grupo.",
+  "better_party_x_xaeros_world_map.settings.personal.description": "La cabeza usa el renderizador de skins de jugadores de Xaero. Se usa un punto de color automáticamente cuando no hay entrada de skin disponible.",
+  "better_party_x_xaeros_world_map.settings.personal.mode": "Miembros del grupo: %s",
+  "better_party_x_xaeros_world_map.settings.personal.mode.head": "Cabeza",
+  "better_party_x_xaeros_world_map.settings.personal.mode.dot": "Punto",
+  "better_party_x_xaeros_world_map.settings.personal.mode.hidden": "Desactivado",
+  "better_party_x_xaeros_world_map.settings.party.title": "Visualización del mapa de grupo de Xaero",
+  "better_party_x_xaeros_world_map.settings.party.admin": "Puedes editar la visualización del mapa de este grupo.",
+  "better_party_x_xaeros_world_map.settings.party.read_only": "Solo un administrador autorizado del grupo puede cambiar la visualización del mapa.",
+  "better_party_x_xaeros_world_map.settings.party.visibility.section": "Visibilidad en el mapa",
+  "better_party_x_xaeros_world_map.settings.party.map_enabled": "Permitir miembros del grupo en el mapa: %s"
+}

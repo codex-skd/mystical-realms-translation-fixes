@@ -1,0 +1,17 @@
+{
+    "name": "Talismanes Indestructibles",
+    "icon": "minecraft:enchanting_table",
+    "category": "apotheosis:potion/charms",
+	"flag": "&apotheosis:potion,apotheosis:enchanting",
+	"sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A través del $(l:apotheosis:enchanting/table/infusion)Encantamiento de Infusión$(), los talismanes pueden hacerse Indestructibles.$(p)Con esto, puedes tener duración ilimitada de cualquier efecto de poción."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "La receta de infusión para talismanes Indestructibles es bastante difícil.$(p)Necesitarás un sólido conocimiento de las $(l:apotheosis:enchanting/table/stats)Estadísticas de Encantamiento$() para poder completarla."
+        }
+	]
+}

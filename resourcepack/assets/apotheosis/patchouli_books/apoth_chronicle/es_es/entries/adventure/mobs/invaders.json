@@ -1,0 +1,28 @@
+{
+    "name": "Invasores Apothic",
+    "icon": "minecraft:beacon",
+    "category": "apotheosis:adventure/mobs",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Un ruido extraño, un mensaje peculiar y un enorme rayo de luz desde el cielo...$(p)¡Todas las señales apuntan a una incursión de un Invasor Apothic!"
+        },
+		{
+			"type": "patchouli:text",
+			"title": "Mecánicas de Aparición",
+			"text": "Los Invasores Apothic pueden aparecer raramente en la superficie donde los mobs normalmente pueden aparecer.$(p)Su llegada estará marcada por un ruido fuerte, un mensaje de estado y un rayo de baliza.$(p)Los invasores pueden ser más o menos comunes dependiendo del Nivel Mundial y la Dimensión."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Rarezas de Invasores",
+			"text": "Cada invasor tiene una rareza, que se indica por su nombre y el color de su contorno.$(p)Los invasores de mayor rareza serán más fuertes, pero soltarán mejor botín como resultado."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Botín",
+			"text": "Los invasores siempre sueltan un $(l:apotheosis:adventure/mobs/invader_items)objeto con afijo especial$(), y pueden tener tablas de botín adicionales por encima de sus contrapartes normales.$(p)También tienen más probabilidades de soltar Gemas."
+		}
+	]
+}

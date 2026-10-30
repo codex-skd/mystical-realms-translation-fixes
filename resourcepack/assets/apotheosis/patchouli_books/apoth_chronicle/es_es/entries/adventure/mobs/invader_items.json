@@ -1,0 +1,17 @@
+{
+    "name": "Objetos de Invasores",
+    "icon": "minecraft:ender_chest",
+    "category": "apotheosis:adventure/mobs",
+	"flag": "apotheosis:adventure",
+	"sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Cada invasor está potenciado con exactamente un Objeto con Afijo, además del resto de su equipo completamente encantado.$(p)Este Objeto con Afijo siempre se soltará al morir, y tendrá la misma rareza que el invasor.$(p)Los afijos en él tienden a ser más fuertes de lo normal."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Este objeto por sí solo es el trofeo que obtendrás al derrotar a un invasor, y probablemente valga la pena.$(p)Como recuerdo del propietario original, cada objeto tendrá el nombre del invasor como prefijo en el nombre del objeto."
+		}
+	]
+}

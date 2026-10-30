@@ -1,0 +1,64 @@
+{
+    "name": "El Menú de Información",
+    "icon": "apotheosis:textures/gui/book/question_mark.png",
+    "category": "apotheosis:enchanting/table",
+	"flag": "apotheosis:enchanting",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La mesa de encantamiento tiene una pantalla útil para que aprendas qué encantamientos están disponibles.$(p)Para acceder, coloca un objeto en la mesa de encantamiento y haz clic en el signo de interrogación en la esquina superior derecha."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "El propósito de este capítulo es presentarte esta pantalla y ayudarte a navegarla.$(p)Si la entiendes completamente, nunca volverás a confundirte con el encantamiento."
+		},
+		{
+            "type": "patchouli:image",
+			"title": "El Selector de Ranura",
+			"images": [
+				"apotheosis:textures/gui/book/slot_selector.png"
+			],
+			"text": "Esto te permite seleccionar qué ranura de encantamiento inspeccionar."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "La ranura seleccionada actualmente se resaltará, y las ranuras que no estén disponibles estarán atenuadas.$(p)Al pasar el cursor sobre la ranura, verás el nivel, la $(4)Potencia Mínima$() y la $(9)Potencia Máxima$()."
+		},
+		{
+            "type": "patchouli:image",
+			"title": "Ventana de Encantamientos",
+			"images": [
+				"apotheosis:textures/gui/book/enchantments_window.png"
+			],
+			"text": "Esto te muestra qué encantamientos están disponibles."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Dado el objeto actual y el nivel de potencia seleccionado, hay un conjunto determinado de encantamientos disponibles.$(p)Esta ventana te muestra cada encantamiento, su nivel, rareza y probabilidad de ser seleccionado.$(p)También mostrará qué encantamientos son mutuamente excluyentes."
+		},
+		{
+            "type": "patchouli:image",
+			"title": "El Deslizante de Potencia",
+			"images": [
+				"apotheosis:textures/gui/book/power_slider.png"
+			],
+			"text": "Esto te permite cambiar el nivel de potencia simulado."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Cuando seleccionas una ranura, el Deslizante de Potencia selecciona automáticamente el nivel de potencia justo en el medio del rango de potencia.$(p)El deslizante solo puede bajar hasta la $(4)Potencia Mínima$() y subir hasta la $(9)Potencia Máxima$() para la ranura actual."
+		},
+		{
+            "type": "patchouli:image",
+			"title": "Pesos de Rareza",
+			"images": [
+				"apotheosis:textures/gui/book/weights.png"
+			],
+			"text": "Esto muestra el peso de cada rareza."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Cada encantamiento tiene una rareza, y cada rareza tiene un peso.$(p)La probabilidad de seleccionar un encantamiento es su peso individual dividido por el total del grupo (de los pesos de todos los encantamientos disponibles).$(p)$(arcana) puede cambiar los pesos de rareza."
+		}
+	]
+}

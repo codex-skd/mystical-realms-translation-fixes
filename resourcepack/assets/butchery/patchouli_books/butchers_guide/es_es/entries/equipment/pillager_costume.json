@@ -1,0 +1,16 @@
+{
+      "name": "Atuendo de Saqueador",
+    "icon": "butchery:pillager_armor_chestplate",
+    "category": "butchery:equipment",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:pillager_armor_chestplate",
+            "link_recipe": true,
+            "title" : "Atuendo de Saqueador",
+            "text": "Los atuendos de saqueador se pueden obtener despedazando Saqueadores; son puramente cosméticos. Se pueden reciclar combinándolos con un cuchillo de forjar o un cuchillo de despiece en una mesa de trabajo. A diferencia de los otros atuendos, el atuendo de saqueador tiene la habilidad especial de engañar a los Saqueadores haciéndoles creer que eres uno de ellos, lo que significa que no atacarán. Esto no funciona con Vindicadores y Evocadores."
+        }
+    ]
+}

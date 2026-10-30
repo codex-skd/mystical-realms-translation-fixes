@@ -1,0 +1,17 @@
+{
+    "name": "Desintegración",
+    "icon": "apothic_attributes:textures/mob_effect/sundering.png",
+    "category": "apotheosis:potion/effects",
+	"flag": "apotheosis:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "La Poción de $(c)Desintegración$() es un efecto negativo.$(p)Mientras estás bajo sus efectos, todo el daño recibido se incrementa un 20% por nivel."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Sirve como contrapartida directa de la resistencia, y es aditivo con la resistencia.$(p)Si tuvieras Desintegración II y Resistencia II, recibirías daño normal."
+        }
+	]
+}

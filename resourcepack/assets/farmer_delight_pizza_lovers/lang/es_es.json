@@ -1,0 +1,22 @@
+{
+  "item.farmer_delight_pizza_lovers.plain_pizza": "Pizza simple",
+  "item.farmer_delight_pizza_lovers.pizza_margharita": "Pizza Margarita",
+  "item.farmer_delight_pizza_lovers.pizza_mozzorella": "Pizza Mozzarella",
+  "item.farmer_delight_pizza_lovers.pizza_hawaii": "Pizza Hawái",
+  "item.farmer_delight_pizza_lovers.pizza_capricciosa": "Pizza Capricciosa",
+  "item.farmer_delight_pizza_lovers.meat_lovers": "Amantes de la carne",
+  "item.farmer_delight_pizza_lovers.pizza_with_sugar": "Pizza con azúcar",
+  "item.farmer_delight_pizza_lovers.cheese": "Queso",
+  "gui.farmer_delight_pizza_lovers.pizza_oven_gui.label_empty": "->",
+  "gui.farmer_delight_pizza_lovers.pizza_oven_gui.label_empty1": "->",
+  "block.farmer_delight_pizza_lovers.pizza_oven": "Horno de pizza",
+  "item_group.farmer_delight_pizza_lovers.pizza_lovers": "Amantes de la pizza",
+  "item.farmer_delight_pizza_lovers.golden_pizza": "Pizza dorada",
+  "item.farmer_delight_pizza_lovers.pizza_prosciutto": "Pizza Prosciutto",
+  "item.farmer_delight_pizza_lovers.basil": "Albahaca",
+  "item.farmer_delight_pizza_lovers.pizza_funghi": "Pizza Funghi",
+  "gui.farmer_delight_pizza_lovers.pizza_oven_gui.label_empty5": "=",
+  "gui.farmer_delight_pizza_lovers.pizza_oven_gui.label_empty4": "+",
+  "gui.farmer_delight_pizza_lovers.pizza_oven_gui.label_empty3": "+",
+  "gui.farmer_delight_pizza_lovers.pizza_oven_gui.label_empty2": ""
+}

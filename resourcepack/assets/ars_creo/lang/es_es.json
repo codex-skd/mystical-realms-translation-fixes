@@ -1,0 +1,20 @@
+{
+  "block.ars_creo.starbuncle_wheel": "Rueda de Starbuncle",
+  "ars_creo.page1.starbuncle_wheel": "Genera fuerza rotacional para Create. Colocar un bloque de oro frente a la rueda aumentará las RPM.",
+  "ars_creo.page.behaviors": "Ars Creo habilita comportamientos especiales de mecanismos para los bloques de Ars Nouveau, incluidas las torretas de hechizos y los frascos de fuente. Torreta de hechizos básica: dispara un hechizo en el mecanismo al interactuar. Torreta temporizada: dispara un hechizo en su intervalo. Torreta de hechizos encantada: dispara un hechizo por cada nuevo bloque visitado. Frasco de fuente: las torretas de un mecanismo pueden consumirlo.",
+  "itemGroup.ars_creo.general": "Ars Creo",
+  "ars_creo.display_source.turret.not_enough_space": "No hay suficiente espacio ",
+  "ars_creo.display_source.turret.for_turret_status": "para el estado de la torreta",
+  "ars_creo.display_source.turret.no_spell": "Sin hechizo establecido.",
+  "ars_creo.display_source.turret.spell_name": "Hechizo: %s",
+  "ars_creo.display_source.turret.spell": "%s",
+  "ars_creo.display_source.turret_target": "Torreta de hechizos",
+  "ars_creo.display_source.source_count": "Fuente: %s",
+  "ars_creo.display_source.for_source_status": "para el estado de la fuente",
+  "ars_creo.display_source.source_jar": "Cantidad de fuente",
+  "ars_creo.display_source.turret": "Hechizo",
+  "ars_creo.page1.ars_creo.display_link": "El enlace de visualización se puede conectar a un frasco de fuente para mostrar la cantidad de fuente que contiene, o a una torreta de hechizos para mostrar el hechizo actual en un panel de visualización.",
+  "ars_creo.page1.ars_creo.fluid_tank": "Las pociones se pueden almacenar y transferir entre un tanque de fluidos de Create usando tuberías y un tanque.",
+  "ars_creo.display_link": "Ars Creo: Enlace de visualización",
+  "ars_creo.fluid_tank": "Ars Creo: Tanque de fluidos"
+}

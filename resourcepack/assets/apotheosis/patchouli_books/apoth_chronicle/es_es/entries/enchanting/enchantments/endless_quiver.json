@@ -1,0 +1,17 @@
+{
+    "name": "Carcaj Infinito",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Carcaj Infinito$() es un encantamiento de Obra Maestra para arcos.$(p)Al disparar un arco, las flechas no se consumen, sin importar el tipo.$(p)Se considera una mejora directa de $(9)Infinidad$()."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Este encantamiento incluso debería hacer infinitas las flechas de otros mods."
+        }
+	]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Daño de Fuego",
+    "icon": "minecraft:blaze_powder",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "El $(9)Daño de Fuego$() es daño mágico adicional aplicado a ataques cuerpo a cuerpo. También incendia al objetivo durante un corto tiempo. Un daño mayor aumenta la duración del fuego.$(p)Se encuentra en armas cuerpo a cuerpo."
+        }
+	]
+}

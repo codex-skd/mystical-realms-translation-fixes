@@ -1,0 +1,21 @@
+{
+      "name": "Sal",
+    "icon": "butchery:salt",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:salt",
+            "link_recipe": true,
+            "title" : "Sal",
+            "text": "La sal es un objeto esencial para convertir pieles en cuero. La sal se puede obtener de varias maneras; por ejemplo, la más fácil sería crear una $(l:butchery:blocks/basin)Jofaina$(). Otra forma es explorar, la sal se forma en discos bajo el agua de manera similar a la arcilla. Finalmente, se pueden encontrar formaciones de sal en biomas oceánicos, que son grandes depósitos de sal a menudo con púas de sal."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:saltblockrecipe",
+            "text": "La sal de otros mods que usen la etiqueta forge:salt o c:salt también funcionará en las recetas de Carnicería."
+        }
+    ]
+}

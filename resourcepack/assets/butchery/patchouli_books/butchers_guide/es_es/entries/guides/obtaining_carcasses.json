@@ -1,0 +1,16 @@
+{
+      "name": "Obtener Cadáveres",
+    "icon": "butchery:pig_carcass",
+    "category": "butchery:guides",
+    "read_by_default": true,
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:pig_carcass",
+            "link_recipe": true,
+            "title" : "Obtener Cadáveres",
+            "text": "Obtener el cadáver de un mob es bastante simple. Solo necesitas un cuchillo de forjar (a menos que alguna arma/herramienta esté habilitada para soltar cadáveres en la configuración). Simplemente mata al mob que desees con el cuchillo de forjar, esto hará que el cadáver del mob suelte y ¡simplemente recógelo! Puede que notes que te sientes un poco lento, ¿por qué? Los cadáveres son ligeros, ya sabes.. Llevar cadáveres causa el efecto de lentitud cuando están en tu inventario. (Se puede desactivar en la configuración)"
+        }
+    ]
+}

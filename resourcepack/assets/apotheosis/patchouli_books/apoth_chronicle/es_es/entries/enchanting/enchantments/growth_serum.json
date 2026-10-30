@@ -1,0 +1,13 @@
+{
+    "name": "Suero de Crecimiento",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Suero de Crecimiento$() es un encantamiento de Obra Maestra para tijeras.$(p)Hace que las ovejas tengan un 50% de probabilidad de volver a crecer su lana inmediatamente."
+        }
+	]
+}

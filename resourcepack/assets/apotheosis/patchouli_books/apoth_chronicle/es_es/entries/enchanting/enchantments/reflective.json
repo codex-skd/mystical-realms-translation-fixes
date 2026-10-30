@@ -1,0 +1,17 @@
+{
+    "name": "Defensas Reflectantes",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Defensas Reflectantes$() es un encantamiento de escudo.$(p)Hace que todos los ataques bloqueados infljan una parte del daño de vuelta al atacante.$(p)Más específicamente, el 15% del daño bloqueado se refleja de vuelta."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "El daño reflejado se transforma en daño mágico.$(p)Niveles suficientemente altos de $(9)Defensas Reflectantes$() inflarán más daño que el original."
+        }
+	]
+}

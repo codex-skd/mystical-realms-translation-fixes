@@ -1,0 +1,31 @@
+{
+    "name": "Estuche de Gemas",
+    "icon": "apotheosis:gem_case",
+    "category": "apotheosis:adventure/gems",
+	"flag": "apotheosis:adventure",
+	"sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+			"recipe": "apotheosis:gem_case",
+			"text": "El $(9)Estuche de Gemas$() es un dispositivo de almacenamiento para $(l:apotheosis:adventure/gems/gems)Gemas$().$(p)Puede contener hasta treinta y dos mil gemas de cada tipo y pureza, y puede mejorarse para contener más."
+		},
+        {
+            "title": "Filtrado",
+            "type": "patchouli:text",
+            "text": "El Estuche de Gemas tiene dos filtros: un filtro por nombre y un filtro por objeto.$(p)El filtro por nombre te permite buscar una gema por nombre, mientras que el filtro por objeto te permite buscar gemas que quepan en un objeto específico."
+        },
+		{
+			"title": "Tallado de Gemas",
+            "type": "patchouli:text",
+            "text": "El Estuche de Gemas también tiene seis ranuras auxiliares que se pueden usar para contener materiales de mejora.$(p)Si hay suficientes materiales y gemas presentes, siguiendo las recetas de mejora de pureza, puedes mejorar Gemas directamente en el estuche.$(p)Esto hace obsoleta la $(l:apotheosis:adventure/gems/gem_cutting)Mesa de Tallado de Gemas$()."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "apotheosis:ender_gem_case",
+            "title": "Un Estuche de Gemas Supremo",
+            "link_recipe": true,
+            "text": "El $(9)Estuche de Gemas de la Casa Fabergé$() tiene una $(6)Capacidad de Almacenamiento$() de dos mil millones.$(p)No se puede elaborar directamente, y debe crearse usando $(l:apotheosis:enchanting/table/infusion)Encantamiento de Infusión$()."
+        }
+	]
+}

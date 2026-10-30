@@ -1,0 +1,19 @@
+{
+    "name": "Fatiga Minera",
+    "icon": "minecraft:textures/mob_effect/mining_fatigue.png",
+    "category": "apotheosis:potion/recipes",
+	"flag": "apotheosis:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(c)Fatiga Minera$() es un efecto negativo que normalmente solo aplican los Guardianes.$(p)Mientras está activo, tu velocidad de minería se reduce un 20% por nivel.$(p)Es el opuesto directo de $(9)Prisa$()."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"title": "Receta de Elaboración",
+			"item": "minecraft:fermented_spider_eye",
+            "text": "Esta poción se puede crear con una $(9)Poción de Prisa$() y un Ojo de Araña Fermentado.$(p)Se puede ampliar, fortalecer o convertir en poción arrojadiza con los ingredientes habituales."
+        }
+	]
+}

@@ -1,0 +1,30 @@
+{
+      "name": "Cuchillos de Forjar",
+    "icon": "butchery:iron_cleaver",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:iron_cleaver",
+            "link_recipe": true,
+            "title" : "Cuchillos de Forjar",
+            "text": "Los cuchillos de forjar se usan para obtener los cadáveres de los mobs, drenar cadáveres y despedazarlos. Hay 5 materiales diferentes, al igual que las herramientas vanilla: Hueso, Hierro, Oro, Diamante y Netherita. Con la excepción de la Netherita, todos estos cuchillos hacen lo mismo; sin embargo, los cuchillos de forjar de netherita son los únicos que pueden obtener cadáveres de jefes y despedazarlos."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:bonecleaverrecipe",
+            "recipe2": "butchery:ironcleaverrecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:goldcleaverrecipe",
+            "recipe2": "butchery:diamondcleaverrecipe"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "butchery:netheritecleaverrecipe"
+        }
+    ]
+}

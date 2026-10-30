@@ -1,0 +1,19 @@
+{
+    "name": "Prisa",
+    "icon": "minecraft:textures/mob_effect/haste.png",
+    "category": "apotheosis:potion/recipes",
+	"flag": "apotheosis:potion",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Prisa$() es otro efecto útil que no tiene receta en vanilla.$(p)Cada nivel da +20% de velocidad de minería."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"title": "Receta de Elaboración",
+			"item": "minecraft:mushroom_stew",
+            "text": "Esta poción se puede crear con una Poción Rara y un Guiso de Setas.$(p)Se puede ampliar, fortalecer o convertir en poción arrojadiza con los ingredientes habituales."
+        }
+	]
+}

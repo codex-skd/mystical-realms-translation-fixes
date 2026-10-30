@@ -1,0 +1,13 @@
+{
+    "name": "Filotez",
+    "icon": "minecraft:netherite_sword",
+    "category": "apotheosis:enchanting/changes",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Filotez$() ya no es excluyente con otros encantamientos de daño.$(p)Esto significa que ahora puedes tener $(9)Filotez$() y otro encantamiento de daño que normalmente sería excluyente."
+        }
+	]
+}

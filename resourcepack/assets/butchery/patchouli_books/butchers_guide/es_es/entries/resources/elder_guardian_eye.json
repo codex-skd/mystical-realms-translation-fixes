@@ -1,0 +1,21 @@
+{
+      "name": "Ojo de Guardián Anciano",
+    "icon": "butchery:elder_guardian_eye",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:elder_guardian_eye",
+            "link_recipe": true,
+            "title" : "Ojo de Guardián Anciano",
+            "text": "Los ojos de guardián anciano obtenidos al despedazar guardianes ancianos se pueden usar para fabricar un ojo de guardián anciano portátil que otorga visión nocturna cuando te sumerges en agua."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:saltblockrecipe",
+            "text": "La sal de otros mods que usen la etiqueta forge:salt o c:salt también funcionará en las recetas de Carnicería."
+        }
+    ]
+}
